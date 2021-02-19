@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Test"
+date:   2024-01-23
+categories: test
+---
+
+I've just set up my webpage!  
+Hopefully I'll write some random thoughts in Blog, maybe in Japanese.
