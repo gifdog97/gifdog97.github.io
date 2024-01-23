@@ -22,7 +22,7 @@ title: Shunsuke Kando
 description: >- # this means to ignore newlines until "baseurl:"
   Shunsuke Kando
 baseurl: "" # the subpath of the site
-url: "https://gifdog97.github.io/" # the base hostname & protocol for the site
+url: "https://gifdog97.github.io" # the base hostname & protocol for the site
 og_image: /assets/img/profile-pic.jpg
 google_analytics: "G-FD57K4HLSW"
 
