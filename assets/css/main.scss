@@ -33,3 +33,7 @@ $on-laptop: 800px;
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import "base", "layout", "site", "work", "blog", "post", "404";
+
+.addTagManager {
+  padding: 5px 0 20px 0;
+}
