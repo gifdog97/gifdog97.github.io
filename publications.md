@@ -9,6 +9,7 @@ permalink: /publications
 
 ## Non-refereed (Domestic)
 
-1. 若崎 颯, <u>神藤 駿介</u>, 宮尾 祐介. [描写内容に従った音楽評論文書の分類に対する自動化アプローチ](https://confit.atlas.jp/guide/event/jsai2022/subject/1P5-GS-6-03/date?cryptoId=) 人工知能学会第36回全国大会 (JSAI2022)
-1. <u>神藤 駿介</u>, 能地 宏, 宮尾 祐介. [言語モデルの統語構造把握能力を測定するより妥当な多言語評価セットの構築](https://www.anlp.jp/proceedings/annual_meeting/2022/pdf_dir/G5-1.pdf). 言語処理学会第28回年次大会 (NLP2022)
-1. <u>神藤 駿介</u>, 能地 宏, 宮尾 祐介. [依存構造から句構造への変換による多言語モデリングに向けて](https://www.anlp.jp/proceedings/annual_meeting/2021/pdf_dir/P5-1.pdf). 言語処理学会第27回年次大会 (NLP2021)
+1. <u>神藤 駿介</u>, 宮尾 祐介. [ラベル付き系列予測による音声シグナルの Textless 依存構造解析](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/B5-2.pdf). 言語処理学会第30回年次大会 (NLP2024). **(委員特別賞)**
+1. 若崎 颯, <u>神藤 駿介</u>, 宮尾 祐介. [描写内容に従った音楽評論文書の分類に対する自動化アプローチ](https://confit.atlas.jp/guide/event/jsai2022/subject/1P5-GS-6-03/date?cryptoId=). 人工知能学会第36回全国大会 (JSAI2022).
+1. <u>神藤 駿介</u>, 能地 宏, 宮尾 祐介. [言語モデルの統語構造把握能力を測定するより妥当な多言語評価セットの構築](https://www.anlp.jp/proceedings/annual_meeting/2022/pdf_dir/G5-1.pdf). 言語処理学会第28回年次大会 (NLP2022).
+1. <u>神藤 駿介</u>, 能地 宏, 宮尾 祐介. [依存構造から句構造への変換による多言語モデリングに向けて](https://www.anlp.jp/proceedings/annual_meeting/2021/pdf_dir/P5-1.pdf). 言語処理学会第27回年次大会 (NLP2021).
