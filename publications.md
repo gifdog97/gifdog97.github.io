@@ -6,7 +6,7 @@ permalink: /publications
 ## Refereed
 
 1. Yurie Koga, <u>Shunsuke Kando</u>, Yusuke Miyao. "Forecasting Implicit Emotions Elicited in Conversations." INLG 2024.
-1. <u>Shunsuke Kando</u>, Yusuke Miyao, Jason Naradowsky, Shinnosuke Takamichi. "Textless Dependency Parsing by Labeled Sequence Prediction." INTERSPEECH 2024.
+1. <u>Shunsuke Kando</u>, Yusuke Miyao, Jason Naradowsky, Shinnosuke Takamichi. "[Textless Dependency Parsing by Labeled Sequence Prediction](https://arxiv.org/abs/2407.10118)." INTERSPEECH 2024.
 1. <u>Shunsuke Kando</u>, Hiroshi Noji, Yusuke Miyao. "[Multilingual Syntax-aware Language Modeling through Dependency Tree Conversion](https://aclanthology.org/2022.spnlp-1.1/)." Sixth Workshop on Structured Prediction for NLP (SPNLP 2022).
 
 ## Non-refereed (Domestic)
