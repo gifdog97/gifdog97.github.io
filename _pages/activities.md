@@ -2,6 +2,8 @@
 permalink: /activities
 ---
 
+My academic activities except for publications.
+
 ## Education
 
 - **Master of Computer Science** (Apr 2020 - Mar 2022)  
