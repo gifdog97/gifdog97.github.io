@@ -6,10 +6,10 @@
 
 main:
   - title: "Publications"
-    url: /publications/
+    url: /publications
 
   - title: "Activities"
-    url: /activities/
+    url: /activities
     
   - title: "Blog Posts"
     url: /blog/
