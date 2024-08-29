@@ -14,7 +14,7 @@ name                     : &name "Shunsuke Kando"
 description              : &description "personal description"
 url                      : https://gifdog97.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "gifdog97.github.io" # FIXME LATER
+repository               : "gifdog97/gifdog97.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
