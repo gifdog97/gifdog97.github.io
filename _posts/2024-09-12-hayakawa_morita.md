@@ -1,7 +1,7 @@
 ---
 title: '早川義夫と森田童子'
 date: 2024-09-12
-permalink: /blog/2024/09/XX/hayakawa_morita
+permalink: /blog/2024/09/12/hayakawa_morita
 tags:
   - music
 hayakawa: bMoFQV0uqeg

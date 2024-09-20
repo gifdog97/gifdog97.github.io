@@ -1,4 +1,80 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-08-29T08:45:42-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Home</title><subtitle>personal description</subtitle><author><name>Shunsuke Kando</name><email>skando@is.s.u-tokyo.ac.jp</email></author><entry><title type="html">ベイカーベイカーパラドクス</title><link href="http://localhost:4000/blog/2024/08/17/baker" rel="alternate" type="text/html" title="ベイカーベイカーパラドクス" /><published>2024-08-17T00:00:00-07:00</published><updated>2024-08-17T00:00:00-07:00</updated><id>http://localhost:4000/blog/2024/08/17/baker</id><content type="html" xml:base="http://localhost:4000/blog/2024/08/17/baker"><![CDATA[<p>「ある人の容姿や趣味、人柄、口癖まで思い出せるのに、名前だけ思い出せない」現象のことを「<a href="https://ja.wikipedia.org/wiki/ベイカーベイカーパラドクス">ベイカ－ベイカーパラドクス</a>」と呼ぶそうです。
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-09-20T06:10:33-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Home</title><subtitle>personal description</subtitle><author><name>Shunsuke Kando</name><email>skando@is.s.u-tokyo.ac.jp</email></author><entry><title type="html">デスモグレイン</title><link href="http://localhost:4000/blog/2024/09/20/desumo" rel="alternate" type="text/html" title="デスモグレイン" /><published>2024-09-20T00:00:00-07:00</published><updated>2024-09-20T00:00:00-07:00</updated><id>http://localhost:4000/blog/2024/09/20/desumo</id><content type="html" xml:base="http://localhost:4000/blog/2024/09/20/desumo"><![CDATA[<p>数ヶ月ほど前から、右足の親指の関節のところに大きな魚の目ができて困っていた。
+普段の生活には支障は無いのだが、クライミングシューズを履くと傷んでしまって登れないのである。
+クライミングシューズは、出来るだけ小さいものを履くことでつま先での踏み込みがしやすくなって有利になるものである。
+しかし、その弊害としてタコや魚の目ができやすくなってしまったり、それが痛みに繋がったりしてしまうわけである。
+特に魚の目は角質が皮膚の深くまで侵食することで芯が出来てしまうので、圧迫されると痛みやすい。</p>
+
+<p>こういうのは何科に行けば良いのかすら分からなかったので調べたところ、どうも皮膚科で良いらしいことが分かり、先日早速行ってきた。
+事前に調べたところによると、その場で液体窒素で凍らせて一気に剥がすという荒療治が行われることもあるという。
+すぐに治るのは嬉しいが、その後当然痛むとのことで、来週クライミングの予定を控えている身としてはやや心配であった。
+今回行った病院ではそのような治療が行われることはなく安心した。
+処置の内容としては、まず出っぱっている角質を優しいピーラーのような専用の器具で削る（なんと市販されているらしい。世の中にはいろいろな需要がある）。
+自分の一部がスルスルと削られていく様子はどこか爽快であった。
+その後、「スピール膏」という貼り薬の説明を受ける。
+エセドイツ語のようなこの軟膏には角質を柔らかくする作用があるという。</p>
+
+<p>帰宅後、「スピール膏」がやや気になり改めてちょっと調べてみた。
+その効果はなかなか絶大のようで、どのWebページにも「必ず患部より小さく切って貼ること」と書いてある。
+健康な皮膚が影響を受けて傷んでしまうとのこと。
+病院ではそんな説明は受けなかったような気がするし、むしろ気持ち大きめに張る方が安心かな？と考えてしまっていたので、調べておいて良かった。
+どういう仕組みで角質を剥がすのかが気になってさらに調べたところ、スピール膏に含まれる「サリチル酸」という成分が角質と皮膚の間の「デスモグレイン」というタンパク質を溶かすことが原因だという。</p>
+
+<p>デスモグレイン。<strong>デスモグレイン</strong>。
+なんとおぞましい名前であろうか。
+RPGであれば、魔族の中でも特に強力なボスの名前であり、ラスボスであってもおかしくない凄みがある。
+なんならちょっと調べてみたところ、<a href="https://ja.namu.wiki/w/%EB%8B%A4%EB%A6%AC%EC%98%A8%20%EB%AA%A8%EA%B7%B8%EB%A0%88%EC%9D%B8">ダリオン・モグレイン</a> という非常に似た名前のゲームキャラクターが存在した。
+そのビジュアルがこちらである。</p>
+
+<p><img src="/images/posts/2024-09-20-desumo/mograine.png" width="280px" /></p>
+
+<p>想像通りどころか、想像を上回っているではないか。
+こいつの正体が実際には「タコや魚の目の角質と通常の皮膚との間を繋ぐタンパク質」だなんてちゃんちゃらおかしい。
+そしてこれに立ち向かうのが「スピール膏」というのもなんと頼りない。
+そもそもタコだの魚の目だの、この業界のネーミングはちょっとお魚の世界観が過ぎるのではなかろうか。
+そんな能天気な世界に「デスモグレイン」はいかがなものか。
+「フジツボ」とでも名付けておけばよろしい。
+いやはや、ネーミングとはとかく奇妙なものである。</p>]]></content><author><name>Shunsuke Kando</name><email>skando@is.s.u-tokyo.ac.jp</email></author><category term="diary" /><summary type="html"><![CDATA[数ヶ月ほど前から、右足の親指の関節のところに大きな魚の目ができて困っていた。 普段の生活には支障は無いのだが、クライミングシューズを履くと傷んでしまって登れないのである。 クライミングシューズは、出来るだけ小さいものを履くことでつま先での踏み込みがしやすくなって有利になるものである。 しかし、その弊害としてタコや魚の目ができやすくなってしまったり、それが痛みに繋がったりしてしまうわけである。 特に魚の目は角質が皮膚の深くまで侵食することで芯が出来てしまうので、圧迫されると痛みやすい。]]></summary></entry><entry><title type="html">早川義夫と森田童子</title><link href="http://localhost:4000/blog/2024/09/12/hayakawa_morita" rel="alternate" type="text/html" title="早川義夫と森田童子" /><published>2024-09-12T00:00:00-07:00</published><updated>2024-09-12T00:00:00-07:00</updated><id>http://localhost:4000/blog/2024/09/12/hayakawa_morita</id><content type="html" xml:base="http://localhost:4000/blog/2024/09/12/hayakawa_morita"><![CDATA[<p>一昔前のやたら悲しい日本の音楽が好きである。</p>
+
+<p>最近、<strong>早川義夫</strong> という歌手の存在を知った。
+きっかけは筋肉少女帯の「人間のバラード」という曲である。
+元々この曲は大好きで時々聴いていたのだが、先日また聴こうと思い検索したときに早川義夫によるカバーが見つかった。
+なんでも原曲のピアノおよびバックコーラスも早川義夫だという。
+いやはや気がつくのが遅かった。</p>
+
+<p>その悲しい歌声に惹かれて他の曲も聴いてみたが、どれもとても暗く、ときにユーモラスで素晴らしい歌手だと思った。
+個人的に楽器隊が極度に少ない形式の音楽が好きであることもあり、そこもとても気に入っている。
+歌詞は非常にストレートに暗いものである。</p>
+
+<div class="embed-container">
+    <iframe class="youtubeManager" src="https://www.youtube.com/embed/bMoFQV0uqeg" width="560" height="315" frameborder="0" allowfullscreen="true">
+    </iframe>
+  </div>
+
+<p>「躁と鬱の間で」は、不安定な心の様子を痛烈にまっすぐに表現した曲である。
+表現の面でも面白い部分があり、「後悔と嫌悪の連続」というネガティブな詩がメジャー調のコードで解決されることで「躁鬱感」が醸し出されている。
+最近の個人的な関心は「いかにして矛盾と格闘し止揚するか」にあるので、そういった意味でもシンパシーを感じるものである。
+尤も、この歌は上昇を諦めてしまっているようにも思われるのだが、諦めもまた止揚なのかもしれない。</p>
+
+<p>楽器隊が少なく且つストレートに暗い歌手として <strong>森田童子</strong> がいる。
+5年ほど前、兄と二人暮らしをしているとき、兄がなぜか昭和のヒットソングメドレーのようなものをスピーカーから垂れ流していたときに一際異彩を放っていたことをきっかけに知った。
+歌手名を知ろうともスピーカーから流れた音しかヒントが無かったが、わざわざ兄に巻き戻してもらうのもなんだか恥ずかしく、聞こえてきた歌詞の断片をもとにウェブで検索して探し出したものである。</p>
+
+<div class="embed-container">
+    <iframe class="youtubeManager" src="https://www.youtube.com/embed/VPoGuaH29MQ" width="560" height="315" frameborder="0" allowfullscreen="true">
+    </iframe>
+  </div>
+
+<p>このとき聴いたのが代表曲「僕たちの失敗」である。
+過去と今との引き裂かれの中で、僕だけがずっとだめなまま生き続けてきた。
+そんな寂しさを感じる曲だと思う。
+同じメロディーを朗々と繰り返す形式も最近のお気に入りである。</p>
+
+<p>なぜこんなに暗い曲が好きなのか？
+あまり深く考えたことはなかったが、心から楽しいと思った経験があまり無いことが原因なのかもしれない。
+何かが楽しいと思っても、どこか冷めてしまっているところがある（もちろん、それが悪いことだとは思っていない。なんならただのキモい勘違いかもしれない）。
+仮にそうだとすれば、逆に楽しい音楽を聴いてもあまり何も感じることができず、暗いもの（あるいは明確な感情を超えたもの）に同情や感動を感じるのも分からなくはない。</p>
+
+<p>暗いことは悪いことではない。心から充実していると思う。</p>]]></content><author><name>Shunsuke Kando</name><email>skando@is.s.u-tokyo.ac.jp</email></author><category term="music" /><summary type="html"><![CDATA[一昔前のやたら悲しい日本の音楽が好きである。]]></summary></entry><entry><title type="html">ベイカーベイカーパラドクス</title><link href="http://localhost:4000/blog/2024/08/17/baker" rel="alternate" type="text/html" title="ベイカーベイカーパラドクス" /><published>2024-08-17T00:00:00-07:00</published><updated>2024-08-17T00:00:00-07:00</updated><id>http://localhost:4000/blog/2024/08/17/baker</id><content type="html" xml:base="http://localhost:4000/blog/2024/08/17/baker"><![CDATA[<p>「ある人の容姿や趣味、人柄、口癖まで思い出せるのに、名前だけ思い出せない」現象のことを「<a href="https://ja.wikipedia.org/wiki/ベイカーベイカーパラドクス">ベイカ－ベイカーパラドクス</a>」と呼ぶそうです。
 Wikipedia の説明によれば、人の知識はシソーラス的なネットワーク構造を有しているため、名前のような恣意的な概念は他の概念と結びつきにくく、貧弱なネットワークしか構築できない、とのことです。
 これはあくまで一つの説だとは思いますがなかなか面白い話だと思いました。</p>
 
@@ -274,7 +350,7 @@ Wikipedia の説明によれば、人の知識はシソーラス的なネット�
 私は初心者なので、ヘビーメタルの楽曲がオクタトニックスケールで書かれていると分かっただけで喜びます(とか言って、違ったりして。ご指摘お待ちしています)。
 ↑の wikipedia の記事でいうとモデル A のオクタトニックスケールになっています（半→全の順）：</p>
 
-<p align="center"><img src="/assets/img/posts/2024-01-27-ihsahn/octatonic.png" alt="Alt text" /></p>
+<p align="center"><img src="/images/posts/2024-01-27-ihsahn/octatonic.png" width="360px" /></p>
 
 <p>オクタトニックスケールと言えば King Crimson の Red でも使われています。
 ザ・プログレという感じがしてきますね。</p>
@@ -287,7 +363,7 @@ Wikipedia の説明によれば、人の知識はシソーラス的なネット�
 <p>冒頭のリフだけ採譜してみました。
 オクタトニックスケールに従っているのが分かると思います：</p>
 
-<p align="center"><img src="/assets/img/posts/2024-01-27-ihsahn/intro.png" alt="Alt text" /></p>
+<p align="center"><img src="/images/posts/2024-01-27-ihsahn/intro.png" width="520px" /></p>
 
 <p>Ihsahn のギターサウンドでこれを弾かれてしまうとやたらカッコ良いんですよね。
 ほんの一フレーズですが、自分はこの入りからノックアウトされてしまいました。
