@@ -1,8 +1,9 @@
 ---
-layout: post
-title:  "太陽の塔を見に行った"
+title:  '太陽の塔を見に行った'
 date:   2024-05-23
-categories: diary
+permalink: /blog/2024/05/23/tower_of_the_sun
+categories:
+  - diary
 ---
 
 岡本太郎は真っすぐで情熱的な人だな、と思います。
