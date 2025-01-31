@@ -2,7 +2,7 @@
 permalink: /activities
 ---
 
-My academic activities except for publications.
+Activities except for publications.
 
 ## Education
 
