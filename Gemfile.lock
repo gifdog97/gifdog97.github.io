@@ -301,8 +301,9 @@ PLATFORMS
   x86_64-linux-musl
 
 DEPENDENCIES
-  github-pages (~> 228)
+  github-pages
   hawkins
+  jekyll
   jekyll-feed
   jekyll-sitemap
   webrick (~> 1.8)
