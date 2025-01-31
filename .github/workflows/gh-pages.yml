@@ -16,8 +16,8 @@ jobs:
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.3'  # 適切なバージョンを指定
-          bundler-cache: true  # Gemfile.lock をキャッシュしてビルド高速化
+          ruby-version: '3.3'
+          bundler-cache: true
       - name: Install dependencies
         run: bundle install
       - name: Setup Pages
@@ -35,6 +35,7 @@ jobs:
 
   # Deployment job
   deploy:
+    needs: build
     permissions:
       contents: read
       pages: write
@@ -47,4 +48,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v2
+        uses: actions/deploy-pages@v3
