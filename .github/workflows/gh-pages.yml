@@ -16,7 +16,7 @@ jobs:
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.1'  # 適切なバージョンを指定
+          ruby-version: '3.3'  # 適切なバージョンを指定
           bundler-cache: true  # Gemfile.lock をキャッシュしてビルド高速化
       - name: Install dependencies
         run: bundle install
