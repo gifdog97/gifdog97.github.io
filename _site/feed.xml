@@ -1,4 +1,107 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="https://gifdog97.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://gifdog97.github.io/" rel="alternate" type="text/html" /><updated>2025-01-31T09:10:51-08:00</updated><id>https://gifdog97.github.io/feed.xml</id><title type="html">Home</title><subtitle>personal description</subtitle><author><name>Shunsuke Kando</name><email>skando@is.s.u-tokyo.ac.jp</email></author><entry><title type="html">Suchmos - Hit Me, Thunder</title><link href="https://gifdog97.github.io/blog/2025/02/01/suchmos-hit_me_thunder" rel="alternate" type="text/html" title="Suchmos - Hit Me, Thunder" /><published>2025-02-01T00:00:00-08:00</published><updated>2025-02-01T00:00:00-08:00</updated><id>https://gifdog97.github.io/blog/2025/02/01/suchmos-hit_me_thunder</id><content type="html" xml:base="https://gifdog97.github.io/blog/2025/02/01/suchmos-hit_me_thunder">&lt;p&gt;最近 Suchmos の “THE ANYMAL” というアルバムを聴いている。
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-02-10T01:46:30-08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Home</title><subtitle>personal description</subtitle><author><name>Shunsuke Kando</name><email>skando@is.s.u-tokyo.ac.jp</email></author><entry><title type="html">雑なスケッチで論文執筆の初動を起こそう</title><link href="http://localhost:4000/blog/2025/02/10/sketch_paper_writing" rel="alternate" type="text/html" title="雑なスケッチで論文執筆の初動を起こそう" /><published>2025-02-10T00:00:00-08:00</published><updated>2025-02-10T00:00:00-08:00</updated><id>http://localhost:4000/blog/2025/02/10/sketch_paper_writing</id><content type="html" xml:base="http://localhost:4000/blog/2025/02/10/sketch_paper_writing">&lt;p&gt;たまには研究の話でも書いてみる。今回は論文執筆について。&lt;/p&gt;
+
+&lt;p&gt;自分はまだまだ経験が浅く確たることは言えないが、論文を執筆する際の一番の障壁は「初動」にあるのではないかと思う。
+締切が近づいているけどなかなか書き始められない。
+気がついたら締切目前で、共著者から十分にフィードバックを受けられないまま投稿する羽目になってしまう。
+これは結構あるあるな話なのではないだろうか。
+逆に初動さえ乗り越えることができればそこからは筆が乗ってサクサク進むのではないかと思う。
+そういうこともあって「とりあえず何か書いてみよう！」というアドバイスがなされがちだが、いやいやまさにそれができないから困ってるんですけど…という感じである。&lt;/p&gt;
+
+&lt;p&gt;なぜ初動を起こすことが難しいのか？
+自分なりに考える理由として以下の2点が挙げられる。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;(1) まっさらな原稿に圧倒されてしまう&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;至極当たり前の話だが、原稿を書き始めようとするとまずまっさらな紙面が立ちはだかる。
+文字通り「0ページの原稿」を目の前にして、4ページや8ページが埋まっている未来が見えなさ過ぎるのである。
+とりあえず自分の研究内容を思い返してタイトルや要旨を考えてみるが、「そんなにページ数を埋められる気がしない…」という暗澹たる気持ちにどんどん駆られていく。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;(2) ストーリーが固まりきっていない&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;論文のストーリーには大体セオリーがある。
+まず答えたい問いがあって、なぜその問いに答えるべきかというモチベーションがあって、それに対する先行研究のアプローチは何で、我々の研究はどういう点で新しく、何をもたらしたのか、などなど。
+まずこれらの項目が自分の中で固まっていないと書き始めようにも詰まってしまうだろう。
+そこでよくやられる方法論が「アウトラインを書いてみる」というものである。
+各セクション（できればサブセクションぐらいまで）のタイトルとその内容を簡潔に箇条書きでまとめてみることで、今回の研究のストーリーを明確にする。
+アウトラインを書くのは確かに有効で、この段階で一旦共著者に見てもらうことでより着実な執筆が可能となる。
+実際これだけで執筆が進むという人も中にはいるかもしれない。
+しかしアウトラインはあくまでアウトラインであり、実際の紙面とは関係がない。
+結局 (1) の理由でなかなか書き進められないということも考えられる。&lt;/p&gt;
+
+&lt;p&gt;以上の課題 (1), (2) を解決する手段として、&lt;strong&gt;論文全体像を雑にスケッチすること&lt;/strong&gt;を提案する（なんか論文みたいな書き口のブログになっているな）。
+ここでいう「スケッチ」とはアウトラインを箇条書きするようなことではなく、文字通りお絵描きをすることである。
+すなわち論文全体の外観を雑にお絵描きしてみるということだ。&lt;/p&gt;
+
+&lt;p&gt;これがなぜ上記の問題点を解決するのかは後で説明するとして、先にやり方を説明する。
+まず、お絵描きできるツールを用意する。
+私はiPadを使っているが持っていない人は紙とペンで良い。
+色が付けられると便利かもしれない。
+次に、原稿のページ数分だけ大きめに四角形を書く（紙を使うのなら1枚1ページでも良いが、もっと小さいサイズでも良いと思う）。
+あとはこの四角形に枠を書き込みながら論文のレイアウトを定めていく。
+もちろん細かく内容を書く必要は無い。
+「ここからここまでが大体イントロで、ここにはこういう図表があって…」という設計図を書くイメージである。&lt;/p&gt;
+
+&lt;p&gt;以下は言語処理学会の私の主著の雑スケッチである。
+人に見せる前提で書いていない上に帰省の飛行機の中でさっさと書いたものなのでだいぶ汚いのはご容赦ください。&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/images/posts/2025-02-10-sketch_paper_writing/sketch.png&quot; width=&quot;360px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;ここからはなぜこれによって二つの問題点を解消できるのかについて説明する。&lt;/p&gt;
+
+&lt;p&gt;まず「(1) まっさらな原稿に圧倒されてしまう」についてだが、これは結局 TeX に文字を打ち込んだ際に原稿が埋まる速度があまりにも遅いことに起因するのではないかと思う。
+そこで、内容を埋める代わりにとりあえず全体を雑にスケッチしてみることで、迅速に外堀を埋めることができる。
+タイピングの速度とお絵描きの速度には雲泥の差がある。
+外堀を埋めるという点ではアウトラインを作る作業に近いが、雑スケッチは実際の原稿のイメージと直接的に結びついているという点で異なり、その後の執筆の障壁を下げることができる。
+何よりも重要なことは「論文を書く」という行為のゴールが可視化されることである。
+すなわち、&lt;strong&gt;「白紙の原稿に文字を書いていく」という終わりの見えない作業が、「既に可視化されている最終ゴール（＝雑スケッチ）に向けて原稿を埋めていく」作業に切り替わる&lt;/strong&gt; ことで、心理的なハードルが一気に下がるのである。&lt;/p&gt;
+
+&lt;p&gt;次に「(2) ストーリーが固まりきっていない」についてだが、これはスケッチしてみることで自ずと考えるようになる。
+スケッチすることとは、ここにこの話を書き、ここにこの図表を置き、ということを順を追って考える作業と等しい。
+「話の流れ的に当然ここにこんな図表があった方が嬉しい」とったことを俯瞰して考えることができ、場合によってはそれが更なる分析や追加実験を考えるきっかけともなる。
+また、スケッチを通してストーリーとデザインを同時に考えることで、読者にとっても読みやすい論文へと繋がる可能性がある。
+ちょっと査読ハックっぽい話にはなってしまうが、「査読者は忙しいのでアブスト・図表・結論をまずざっと眺める」という話はよく聞く。
+逆に言えばここで心を掴むのが大事ということになる。
+雑スケッチは言わば &lt;strong&gt;「ストーリーとデザインが同時に顕現したもの」&lt;/strong&gt; と見做せ、結果的に論文の質の向上にも繋がり得るのである。&lt;/p&gt;
+
+&lt;p&gt;一つ注意点として、実際に書いてみると当初のスケッチと異なった見た目になることは当然起こり得る。
+手法はこのぐらいのスペースを用意していたけど思ったより少なかった！とか、この表は２段組の想定でいたけど１段組にしないと足りなかった！とか。
+そこまで完全に見越してスケッチするのは不可能なので、そういったときは気にせず本文執筆側の事情に合わせて柔軟に変更していけば良い。
+重要なのはいかに初動を起こすか、である。&lt;/p&gt;
+
+&lt;p&gt;今回紹介した方法が万人に適用可能かどうかはよく分からないが、私のようにとりあえずお絵描きしてみるのが好きという人には結構効くのではないかと思う。
+どうしても論文を書き始められないというときにお試しあれ。&lt;/p&gt;</content><author><name>Shunsuke Kando</name><email>skando@is.s.u-tokyo.ac.jp</email></author><category term="research" /><summary type="html">たまには研究の話でも書いてみる。今回は論文執筆について。</summary></entry><entry><title type="html">甘いジュースともったいない精神</title><link href="http://localhost:4000/blog/2025/02/02/juice_mottainai" rel="alternate" type="text/html" title="甘いジュースともったいない精神" /><published>2025-02-02T00:00:00-08:00</published><updated>2025-02-02T00:00:00-08:00</updated><id>http://localhost:4000/blog/2025/02/02/juice_mottainai</id><content type="html" xml:base="http://localhost:4000/blog/2025/02/02/juice_mottainai">&lt;p&gt;この世には「甘いジュース」と呼ばれるものが存在する。
+典型的にはコーラや午後の紅茶、砂糖入り缶コーヒーなどが該当する。
+甘いジュースには当然ながら大量の糖分が含まれており、ジュースであるが故にガブガブ摂取できてしまう。
+私はこれらの飲み物は一瞬で健康を破壊すると思っているため普段は意識的に避けている。
+したがって家には基本的に一切置いていないし何ならお菓子も置いていない。
+まあお菓子は割と買ってきて食べるんだけど、その日のうちに食べ切れる量だけ買う。
+大事なのは、常に食べられるような状態を作らないことである。&lt;/p&gt;
+
+&lt;p&gt;その一方で、私は強靭な「もったいない精神」を備えている。
+特に食べ物に対しては顕著で、懇親会などで食べ物が出てきたときは「どうせ余るのだから」と人一倍食べる。
+ただでさえ懇親会で知らない人に話しかけるのが苦手なのに、ひたすら食べているのだから輪をかけて交流しなくなる。
+全くもって困りものである。
+そしてこれは当然、特に小さな懇親会でお馴染みの「甘いジュース」にも当てはまる。
+断言しよう。甘いジュースが余らない懇親会はこの世に存在しない。
+結局お茶とか水とかが人気でコーラとかジンジャーエールとかはなんやかんやで結構余るのである。
+みんなどうしてそんなにたくさん食べ物や飲み物を買ってしまうのだろうと思うが、主催からすれば足りない方が困るのだから仕方ないのであろう。&lt;/p&gt;
+
+&lt;p&gt;こういうとき私は「絶対甘いジュースを飲まない気持ち」と「絶対ものを余らせたくない気持ち」が猛烈にせめぎ合う。
+普段から控えているので懇親会でちょろっと飲む分には許容したい。
+しかし先にも述べた通り甘いジュースが余らない懇親会はこの世に存在しないのである。
+誰かが処理しないと一生残る。
+結局いつも「もったいない精神」が打ち勝ってしまい、「ああ、体が破壊されていく〜…」と思いながら飲みたくもない甘いジュースを必死に飲むのである。&lt;/p&gt;
+
+&lt;p&gt;自分の行動指針として「もったいない精神」が強すぎる気がする。
+お金がもったいないから時間を使ってご飯を作るし、家では浄水器を通した水道水ばかり飲んでいる。
+明らかに不要になった実験ファイルは消せないし、全く逆に「容量がもったいない」と言って割と必要だったっぽいファイルを大胆に消してしまうこともある。
+もうこうなってくると訳が分からない。
+研究においては明確に悪い方向に働くこともあり、「絶対書き直した方が良いけど、ここまで頑張って書いてきた実装だしあまり変えずに使い続けたい」とか、
+それがさらに発展して「別手法を試すのが億劫」とか、そんなことにも繋がるのである（これは面倒臭がりなだけでは？）。
+「ここまで頑張ったのだから投稿・出版したい」も危険信号。&lt;/p&gt;
+
+&lt;p&gt;「もったいない精神」は美徳ではあるが、容易に健康を害したり、悪い意味での保守に陥ったりする。
+もっとおおらかにやっていきたい。&lt;/p&gt;</content><author><name>Shunsuke Kando</name><email>skando@is.s.u-tokyo.ac.jp</email></author><category term="diary" /><summary type="html">この世には「甘いジュース」と呼ばれるものが存在する。 典型的にはコーラや午後の紅茶、砂糖入り缶コーヒーなどが該当する。 甘いジュースには当然ながら大量の糖分が含まれており、ジュースであるが故にガブガブ摂取できてしまう。 私はこれらの飲み物は一瞬で健康を破壊すると思っているため普段は意識的に避けている。 したがって家には基本的に一切置いていないし何ならお菓子も置いていない。 まあお菓子は割と買ってきて食べるんだけど、その日のうちに食べ切れる量だけ買う。 大事なのは、常に食べられるような状態を作らないことである。</summary></entry><entry><title type="html">Suchmos - Hit Me, Thunder</title><link href="http://localhost:4000/blog/2025/02/01/suchmos-hit_me_thunder" rel="alternate" type="text/html" title="Suchmos - Hit Me, Thunder" /><published>2025-02-01T00:00:00-08:00</published><updated>2025-02-01T00:00:00-08:00</updated><id>http://localhost:4000/blog/2025/02/01/suchmos-hit_me_thunder</id><content type="html" xml:base="http://localhost:4000/blog/2025/02/01/suchmos-hit_me_thunder">&lt;p&gt;最近 Suchmos の “THE ANYMAL” というアルバムを聴いている。
 元々ほとんど知らないバンドで、知っている曲と言えば “STAY TUNE” ぐらいであった。
 前に聴いたときは「なんかチャラい感じだな〜」と素通りしていたのだが、この間たまたま再び耳にして「あれ、実は結構良いかも？」と感じ、いくつか曲を聴いてみた。
 Suchmos は3枚のフルアルバムと1枚のミニアルバムを出しているが、1stアルバム “THE BAY” と 2ndアルバム “THE KIDS” は STAY TUNE 寄りの曲が多く、全体的にノリノリで夜の首都高あたりで聴きたい雰囲気である。
@@ -28,7 +131,8 @@ Suchmos は3枚のフルアルバムと1枚のミニアルバムを出してい�
 
 &lt;p&gt;確かにそうかもしれない。
 どんな理由であれ、好きになったものは好きになった。
-きっとそれで良いのだ。&lt;/p&gt;
+1st や 2nd は自分にとってそれほど分かり合えるものではないかもしれない。
+でもそれでも良いのだ、という気持ちにさせてくれる。&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Hit me, thunder like “Love Me Tender” &lt;br /&gt;
@@ -50,7 +154,8 @@ Blow me, storm the people flies on someday&lt;br /&gt;
 &lt;p&gt;雷に打たれるような、竜巻に吹かれて掻き消されるような衝撃は、語り尽くせてしまうような陳腐な出来事では決して無い。
 それをあえて語り尽くそうとしなくたって良い。
 「はっきりさせなくてもいい　あやふやなまんまでいい」の精神。
-そういうものが無いときっと人生は美しくないと思う。&lt;/p&gt;
+そういうものが無いときっと人生は美しくないと思う。
+“THE ANYMAL” という雷に打たれて何かが変わって別の作品が好きになったその過程も、語り尽くす必要なんて無いのかもしれない。&lt;/p&gt;
 
 &lt;p&gt;────&lt;/p&gt;
 
@@ -60,7 +165,7 @@ Blow me, storm the people flies on someday&lt;br /&gt;
 複雑な音楽は何かを「語り尽くそうと」し過ぎている。
 だからできるだけ隙間のある音楽にしたのかもしれない。
 歌詞の世界観とサウンドの世界観がまさに雷によって引き裂かれ、全体として止揚しているようである。
-そう感じたから、この曲が好きなのかもしれない。&lt;/p&gt;</content><author><name>Shunsuke Kando</name><email>skando@is.s.u-tokyo.ac.jp</email></author><category term="music" /><summary type="html">最近 Suchmos の “THE ANYMAL” というアルバムを聴いている。 元々ほとんど知らないバンドで、知っている曲と言えば “STAY TUNE” ぐらいであった。 前に聴いたときは「なんかチャラい感じだな〜」と素通りしていたのだが、この間たまたま再び耳にして「あれ、実は結構良いかも？」と感じ、いくつか曲を聴いてみた。 Suchmos は3枚のフルアルバムと1枚のミニアルバムを出しているが、1stアルバム “THE BAY” と 2ndアルバム “THE KIDS” は STAY TUNE 寄りの曲が多く、全体的にノリノリで夜の首都高あたりで聴きたい雰囲気である。 一方、3rdアルバムである “THE ANYMAL” は明らかに異彩を放っている。 どことなくプログレらしいアプローチもあり、音が削ぎ落とされた雰囲気はゆらゆら帝国の「空洞です」をも彷彿とさせる。 聴いているうちになんだかジャケットが Yes の “Close to the Edge” の色違いに見えてみるし、ANYMAL というタイトルも Pink Floyd の “Animals” から取ってきたんか？と変な憶測をしてしまうほどである（どっちも全然違う作品なのだけど）。</summary></entry><entry><title type="html">眠れません</title><link href="https://gifdog97.github.io/blog/2024/10/20/cantsleep" rel="alternate" type="text/html" title="眠れません" /><published>2024-10-20T00:00:00-07:00</published><updated>2024-10-20T00:00:00-07:00</updated><id>https://gifdog97.github.io/blog/2024/10/20/cantsleep</id><content type="html" xml:base="https://gifdog97.github.io/blog/2024/10/20/cantsleep">&lt;p&gt;午前3時である。&lt;/p&gt;
+そう感じたから、この曲が好きなのかもしれない。&lt;/p&gt;</content><author><name>Shunsuke Kando</name><email>skando@is.s.u-tokyo.ac.jp</email></author><category term="music" /><summary type="html">最近 Suchmos の “THE ANYMAL” というアルバムを聴いている。 元々ほとんど知らないバンドで、知っている曲と言えば “STAY TUNE” ぐらいであった。 前に聴いたときは「なんかチャラい感じだな〜」と素通りしていたのだが、この間たまたま再び耳にして「あれ、実は結構良いかも？」と感じ、いくつか曲を聴いてみた。 Suchmos は3枚のフルアルバムと1枚のミニアルバムを出しているが、1stアルバム “THE BAY” と 2ndアルバム “THE KIDS” は STAY TUNE 寄りの曲が多く、全体的にノリノリで夜の首都高あたりで聴きたい雰囲気である。 一方、3rdアルバムである “THE ANYMAL” は明らかに異彩を放っている。 どことなくプログレらしいアプローチもあり、音が削ぎ落とされた雰囲気はゆらゆら帝国の「空洞です」をも彷彿とさせる。 聴いているうちになんだかジャケットが Yes の “Close to the Edge” の色違いに見えてみるし、ANYMAL というタイトルも Pink Floyd の “Animals” から取ってきたんか？と変な憶測をしてしまうほどである（どっちも全然違う作品なのだけど）。</summary></entry><entry><title type="html">眠れません</title><link href="http://localhost:4000/blog/2024/10/20/cantsleep" rel="alternate" type="text/html" title="眠れません" /><published>2024-10-20T00:00:00-07:00</published><updated>2024-10-20T00:00:00-07:00</updated><id>http://localhost:4000/blog/2024/10/20/cantsleep</id><content type="html" xml:base="http://localhost:4000/blog/2024/10/20/cantsleep">&lt;p&gt;午前3時である。&lt;/p&gt;
 
 &lt;p&gt;先週の火曜日から胃腸炎に罹り、腹痛と頭痛に苛まれ続けた。
 数年前からちょくちょく発症しているが今回のはちょっとしつこかった。
@@ -86,7 +191,7 @@ Blow me, storm the people flies on someday&lt;br /&gt;
 
 &lt;p&gt;…&lt;/p&gt;
 
-&lt;p&gt;まあ、でも、何も考えず普通の時間に寝られるのが一番だね。&lt;/p&gt;</content><author><name>Shunsuke Kando</name><email>skando@is.s.u-tokyo.ac.jp</email></author><category term="diary" /><summary type="html">午前3時である。</summary></entry><entry><title type="html">INTERSPEECH2024 参加記・旅行記（その３）</title><link href="https://gifdog97.github.io/blog/2024/10/14/interspeech2024_3" rel="alternate" type="text/html" title="INTERSPEECH2024 参加記・旅行記（その３）" /><published>2024-10-14T00:00:00-07:00</published><updated>2024-10-14T00:00:00-07:00</updated><id>https://gifdog97.github.io/blog/2024/10/14/interspeech2024_3</id><content type="html" xml:base="https://gifdog97.github.io/blog/2024/10/14/interspeech2024_3">&lt;p&gt;&lt;a href=&quot;https://gifdog97.github.io/blog/2024/10/06/interspeech2024_2&quot;&gt;前回の旅行記はこちら&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;まあ、でも、何も考えず普通の時間に寝られるのが一番だね。&lt;/p&gt;</content><author><name>Shunsuke Kando</name><email>skando@is.s.u-tokyo.ac.jp</email></author><category term="diary" /><summary type="html">午前3時である。</summary></entry><entry><title type="html">INTERSPEECH2024 参加記・旅行記（その３）</title><link href="http://localhost:4000/blog/2024/10/14/interspeech2024_3" rel="alternate" type="text/html" title="INTERSPEECH2024 参加記・旅行記（その３）" /><published>2024-10-14T00:00:00-07:00</published><updated>2024-10-14T00:00:00-07:00</updated><id>http://localhost:4000/blog/2024/10/14/interspeech2024_3</id><content type="html" xml:base="http://localhost:4000/blog/2024/10/14/interspeech2024_3">&lt;p&gt;&lt;a href=&quot;https://gifdog97.github.io/blog/2024/10/06/interspeech2024_2&quot;&gt;前回の旅行記はこちら&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;行程（再掲）。
 本記事では学会後の観光（太字部分）の内容を書くことにする。&lt;/p&gt;
@@ -388,7 +493,7 @@ Blow me, storm the people flies on someday&lt;br /&gt;
 学会もかなり充実したもので、今後のモチベーションに繋がった。&lt;/p&gt;
 
 &lt;p&gt;ただ、その充実っぷりから勢い余って参加記を書いてはみたが、普通に面倒であることが分かった。
-多分もう書きません。&lt;/p&gt;</content><author><name>Shunsuke Kando</name><email>skando@is.s.u-tokyo.ac.jp</email></author><category term="diary" /><category term="conference" /><summary type="html">前回の旅行記はこちら</summary></entry><entry><title type="html">INTERSPEECH2024 参加記・旅行記（その２）</title><link href="https://gifdog97.github.io/blog/2024/10/06/interspeech2024_2" rel="alternate" type="text/html" title="INTERSPEECH2024 参加記・旅行記（その２）" /><published>2024-10-06T00:00:00-07:00</published><updated>2024-10-06T00:00:00-07:00</updated><id>https://gifdog97.github.io/blog/2024/10/06/interspeech2024_2</id><content type="html" xml:base="https://gifdog97.github.io/blog/2024/10/06/interspeech2024_2">&lt;p&gt;&lt;a href=&quot;https://gifdog97.github.io/blog/2024/09/27/interspeech2024_1&quot;&gt;前回の旅行記はこちら&lt;/a&gt;&lt;/p&gt;
+多分もう書きません。&lt;/p&gt;</content><author><name>Shunsuke Kando</name><email>skando@is.s.u-tokyo.ac.jp</email></author><category term="diary" /><category term="conference" /><summary type="html">前回の旅行記はこちら</summary></entry><entry><title type="html">INTERSPEECH2024 参加記・旅行記（その２）</title><link href="http://localhost:4000/blog/2024/10/06/interspeech2024_2" rel="alternate" type="text/html" title="INTERSPEECH2024 参加記・旅行記（その２）" /><published>2024-10-06T00:00:00-07:00</published><updated>2024-10-06T00:00:00-07:00</updated><id>http://localhost:4000/blog/2024/10/06/interspeech2024_2</id><content type="html" xml:base="http://localhost:4000/blog/2024/10/06/interspeech2024_2">&lt;p&gt;&lt;a href=&quot;https://gifdog97.github.io/blog/2024/09/27/interspeech2024_1&quot;&gt;前回の旅行記はこちら&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;行程（再掲）。
 本記事では学会会期（太字部分）の内容を書くことにする。&lt;/p&gt;
@@ -469,7 +574,9 @@ Wi-Fiもかなり微弱で、繋がらないことも多々あった。
 知り合い含め日本人の姿もチラホラ見えたが、あまり日本人で群れてしまっても仕方ない（彼らとは国内でもいくらでも会える）と思っていたので、頑張ってその辺の外国人と社交してみようと試みた。
 しかし、これは失敗に終わったと言わざるを得ない。
 自分はそもそもこういう社交の場はあまり得意ではなく、例え国内会議であっても割り込んでいくのは苦手なのに、まして国際会議で無理なのは当然である。
-その辺の道端で知らない人に話しかけるのは、存外平気である。しかし、知らないグループに割って入ることはかなり苦手である。そして、集団の中で一人でいる人に声をかけることも、なぜか不思議なくらい出来ない。
+その辺の道端で知らない人に話しかけるのは割と平気である。
+しかし、知らないグループに割って入ることはかなり苦手である。
+そして、集団の中で一人でいる人に声をかけることも、なぜか不思議なくらい出来ない。
 悲しいかな、レセプション向きの気質ではないのである。
 ときどき参加者に話しかけられて少し会話することはあったが、こちらからコミュニケーションを取りに行くことはついぞ出来なかった。&lt;/p&gt;
 
@@ -592,7 +699,7 @@ Therma Beachの手前のAg Fokasというビーチまで行くバスは結構あ
 Yossi Adiと時間をとって話せば良かった、それだけがちょっと後悔。
 それにしても渡部先生は凄かった。
 チュートリアルも座長もパネルディスカッションもサーベイトークも発表者もやっていた。
-伝説である。&lt;/p&gt;</content><author><name>Shunsuke Kando</name><email>skando@is.s.u-tokyo.ac.jp</email></author><category term="diary" /><category term="conference" /><summary type="html">前回の旅行記はこちら</summary></entry><entry><title type="html">INTERSPEECH2024 参加記・旅行記（その１）</title><link href="https://gifdog97.github.io/blog/2024/09/27/interspeech2024_1" rel="alternate" type="text/html" title="INTERSPEECH2024 参加記・旅行記（その１）" /><published>2024-09-27T00:00:00-07:00</published><updated>2024-09-27T00:00:00-07:00</updated><id>https://gifdog97.github.io/blog/2024/09/27/interspeech2024_1</id><content type="html" xml:base="https://gifdog97.github.io/blog/2024/09/27/interspeech2024_1">&lt;p&gt;※ちょっと前までなんとなくですます調でブログを書いていたが、なんだか表現が制限される実感があったので、今回からは特に丁寧な言い回しはしないことにする。&lt;/p&gt;
+伝説である。&lt;/p&gt;</content><author><name>Shunsuke Kando</name><email>skando@is.s.u-tokyo.ac.jp</email></author><category term="diary" /><category term="conference" /><summary type="html">前回の旅行記はこちら</summary></entry><entry><title type="html">INTERSPEECH2024 参加記・旅行記（その１）</title><link href="http://localhost:4000/blog/2024/09/27/interspeech2024_1" rel="alternate" type="text/html" title="INTERSPEECH2024 参加記・旅行記（その１）" /><published>2024-09-27T00:00:00-07:00</published><updated>2024-09-27T00:00:00-07:00</updated><id>http://localhost:4000/blog/2024/09/27/interspeech2024_1</id><content type="html" xml:base="http://localhost:4000/blog/2024/09/27/interspeech2024_1">&lt;p&gt;※ちょっと前までなんとなくですます調でブログを書いていたが、なんだか表現が制限される実感があったので、今回からは特に丁寧な言い回しはしないことにする。&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://interspeech2024.org/&quot;&gt;INTERSPEECH2024&lt;/a&gt; に現地参加した。
 会期は2024年9月1日（日）〜5日（金）で（1日はチュートリアル）、開催地はギリシャのコス島である。
@@ -757,7 +864,7 @@ Yossi Adiと時間をとって話せば良かった、それだけがちょっ�
 
 &lt;p&gt;P.S. アテネも然り、ギリシャではそこかしこに猫が寝転んでいる。暑いよな..分かるよ…&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/posts/2024-09-27-interspeech2024_1/cat.jpg&quot; width=&quot;360px&quot; /&gt;&lt;/p&gt;</content><author><name>Shunsuke Kando</name><email>skando@is.s.u-tokyo.ac.jp</email></author><category term="diary" /><category term="conference" /><summary type="html">※ちょっと前までなんとなくですます調でブログを書いていたが、なんだか表現が制限される実感があったので、今回からは特に丁寧な言い回しはしないことにする。</summary></entry><entry><title type="html">デスモグレイン</title><link href="https://gifdog97.github.io/blog/2024/09/20/desumo" rel="alternate" type="text/html" title="デスモグレイン" /><published>2024-09-20T00:00:00-07:00</published><updated>2024-09-20T00:00:00-07:00</updated><id>https://gifdog97.github.io/blog/2024/09/20/desumo</id><content type="html" xml:base="https://gifdog97.github.io/blog/2024/09/20/desumo">&lt;p&gt;数ヶ月ほど前から、右足の親指の関節のところに大きな魚の目ができて困っていた。
+&lt;p&gt;&lt;img src=&quot;/images/posts/2024-09-27-interspeech2024_1/cat.jpg&quot; width=&quot;360px&quot; /&gt;&lt;/p&gt;</content><author><name>Shunsuke Kando</name><email>skando@is.s.u-tokyo.ac.jp</email></author><category term="diary" /><category term="conference" /><summary type="html">※ちょっと前までなんとなくですます調でブログを書いていたが、なんだか表現が制限される実感があったので、今回からは特に丁寧な言い回しはしないことにする。</summary></entry><entry><title type="html">デスモグレイン</title><link href="http://localhost:4000/blog/2024/09/20/desumo" rel="alternate" type="text/html" title="デスモグレイン" /><published>2024-09-20T00:00:00-07:00</published><updated>2024-09-20T00:00:00-07:00</updated><id>http://localhost:4000/blog/2024/09/20/desumo</id><content type="html" xml:base="http://localhost:4000/blog/2024/09/20/desumo">&lt;p&gt;数ヶ月ほど前から、右足の親指の関節のところに大きな魚の目ができて困っていた。
 普段の生活には支障は無いのだが、クライミングシューズを履くと傷んでしまって登れないのである。
 クライミングシューズは、出来るだけ小さいものを履くことでつま先での踏み込みがしやすくなって有利になるものである。
 しかし、その弊害としてタコや魚の目ができやすくなってしまったり、それが痛みに繋がったりしてしまうわけである。
@@ -792,7 +899,7 @@ RPGであれば、魔族の中でも特に強力なボスの名前であり、�
 そもそもタコだの魚の目だの、この業界のネーミングはちょっとお魚の世界観が過ぎるのではなかろうか。
 そんな能天気な世界に「デスモグレイン」とはいかがなものか。
 「フジツボ」とでも名付けておけばよろしい。
-いやはや、ネーミングとはとかく奇妙なものである。&lt;/p&gt;</content><author><name>Shunsuke Kando</name><email>skando@is.s.u-tokyo.ac.jp</email></author><category term="diary" /><summary type="html">数ヶ月ほど前から、右足の親指の関節のところに大きな魚の目ができて困っていた。 普段の生活には支障は無いのだが、クライミングシューズを履くと傷んでしまって登れないのである。 クライミングシューズは、出来るだけ小さいものを履くことでつま先での踏み込みがしやすくなって有利になるものである。 しかし、その弊害としてタコや魚の目ができやすくなってしまったり、それが痛みに繋がったりしてしまうわけである。 特に魚の目は角質が皮膚の深くまで侵食することで芯が出来てしまうので、圧迫されると痛みやすい。</summary></entry><entry><title type="html">早川義夫と森田童子</title><link href="https://gifdog97.github.io/blog/2024/09/12/hayakawa_morita" rel="alternate" type="text/html" title="早川義夫と森田童子" /><published>2024-09-12T00:00:00-07:00</published><updated>2024-09-12T00:00:00-07:00</updated><id>https://gifdog97.github.io/blog/2024/09/12/hayakawa_morita</id><content type="html" xml:base="https://gifdog97.github.io/blog/2024/09/12/hayakawa_morita">&lt;p&gt;一昔前のやたら悲しい日本の音楽が好きである。&lt;/p&gt;
+いやはや、ネーミングとはとかく奇妙なものである。&lt;/p&gt;</content><author><name>Shunsuke Kando</name><email>skando@is.s.u-tokyo.ac.jp</email></author><category term="diary" /><summary type="html">数ヶ月ほど前から、右足の親指の関節のところに大きな魚の目ができて困っていた。 普段の生活には支障は無いのだが、クライミングシューズを履くと傷んでしまって登れないのである。 クライミングシューズは、出来るだけ小さいものを履くことでつま先での踏み込みがしやすくなって有利になるものである。 しかし、その弊害としてタコや魚の目ができやすくなってしまったり、それが痛みに繋がったりしてしまうわけである。 特に魚の目は角質が皮膚の深くまで侵食することで芯が出来てしまうので、圧迫されると痛みやすい。</summary></entry><entry><title type="html">早川義夫と森田童子</title><link href="http://localhost:4000/blog/2024/09/12/hayakawa_morita" rel="alternate" type="text/html" title="早川義夫と森田童子" /><published>2024-09-12T00:00:00-07:00</published><updated>2024-09-12T00:00:00-07:00</updated><id>http://localhost:4000/blog/2024/09/12/hayakawa_morita</id><content type="html" xml:base="http://localhost:4000/blog/2024/09/12/hayakawa_morita">&lt;p&gt;一昔前のやたら悲しい日本の音楽が好きである。&lt;/p&gt;
 
 &lt;p&gt;最近、&lt;strong&gt;早川義夫&lt;/strong&gt; という歌手の存在を知った。
 きっかけは筋肉少女帯の「人間のバラード」という曲である。
@@ -833,7 +940,7 @@ RPGであれば、魔族の中でも特に強力なボスの名前であり、�
 何かが楽しいと思っても、どこか冷めてしまっているところがある（もちろん、それが悪いことだとは思っていない。なんならただのキモい勘違いかもしれない）。
 仮にそうだとすれば、逆に楽しい音楽を聴いてもあまり何も感じることができず、暗いもの（あるいは明確な感情を超えたもの）に同情や感動を感じるのも分からなくはない。&lt;/p&gt;
 
-&lt;p&gt;暗いことは悪いことではない。心から充実していると思う。&lt;/p&gt;</content><author><name>Shunsuke Kando</name><email>skando@is.s.u-tokyo.ac.jp</email></author><category term="music" /><summary type="html">一昔前のやたら悲しい日本の音楽が好きである。</summary></entry><entry><title type="html">ベイカーベイカーパラドクス</title><link href="https://gifdog97.github.io/blog/2024/08/17/baker" rel="alternate" type="text/html" title="ベイカーベイカーパラドクス" /><published>2024-08-17T00:00:00-07:00</published><updated>2024-08-17T00:00:00-07:00</updated><id>https://gifdog97.github.io/blog/2024/08/17/baker</id><content type="html" xml:base="https://gifdog97.github.io/blog/2024/08/17/baker">&lt;p&gt;「ある人の容姿や趣味、人柄、口癖まで思い出せるのに、名前だけ思い出せない」現象のことを「&lt;a href=&quot;https://ja.wikipedia.org/wiki/ベイカーベイカーパラドクス&quot;&gt;ベイカ－ベイカーパラドクス&lt;/a&gt;」と呼ぶそうです。
+&lt;p&gt;暗いことは悪いことではない。心から充実していると思う。&lt;/p&gt;</content><author><name>Shunsuke Kando</name><email>skando@is.s.u-tokyo.ac.jp</email></author><category term="music" /><summary type="html">一昔前のやたら悲しい日本の音楽が好きである。</summary></entry><entry><title type="html">ベイカーベイカーパラドクス</title><link href="http://localhost:4000/blog/2024/08/17/baker" rel="alternate" type="text/html" title="ベイカーベイカーパラドクス" /><published>2024-08-17T00:00:00-07:00</published><updated>2024-08-17T00:00:00-07:00</updated><id>http://localhost:4000/blog/2024/08/17/baker</id><content type="html" xml:base="http://localhost:4000/blog/2024/08/17/baker">&lt;p&gt;「ある人の容姿や趣味、人柄、口癖まで思い出せるのに、名前だけ思い出せない」現象のことを「&lt;a href=&quot;https://ja.wikipedia.org/wiki/ベイカーベイカーパラドクス&quot;&gt;ベイカ－ベイカーパラドクス&lt;/a&gt;」と呼ぶそうです。
 Wikipedia の説明によれば、人の知識はシソーラス的なネットワーク構造を有しているため、名前のような恣意的な概念は他の概念と結びつきにくく、貧弱なネットワークしか構築できない、とのことです。
 これはあくまで一つの説だとは思いますがなかなか面白い話だと思いました。&lt;/p&gt;
 
@@ -869,88 +976,4 @@ Wikipedia の説明によれば、人の知識はシソーラス的なネット�
 でも人と音楽談義をする気もないので、やっぱり覚える必要は無い気もしてきました。&lt;/p&gt;
 
 &lt;p&gt;結論、歌詞のある音楽は歌詞もセットで一つの作品であることは認めつつも、歌詞が全く分からなくても心に響くような音楽がやっぱり好きだと思います。
-名前は無くても、便利な言葉で人と共有できなくても、それでも自分の心に残るものを大切にしたいものです。&lt;/p&gt;</content><author><name>Shunsuke Kando</name><email>skando@is.s.u-tokyo.ac.jp</email></author><category term="diary" /><summary type="html">「ある人の容姿や趣味、人柄、口癖まで思い出せるのに、名前だけ思い出せない」現象のことを「ベイカ－ベイカーパラドクス」と呼ぶそうです。 Wikipedia の説明によれば、人の知識はシソーラス的なネットワーク構造を有しているため、名前のような恣意的な概念は他の概念と結びつきにくく、貧弱なネットワークしか構築できない、とのことです。 これはあくまで一つの説だとは思いますがなかなか面白い話だと思いました。</summary></entry><entry><title type="html">Xを閲覧するのをやめた</title><link href="https://gifdog97.github.io/blog/2024/08/16/quit_X" rel="alternate" type="text/html" title="Xを閲覧するのをやめた" /><published>2024-08-16T00:00:00-07:00</published><updated>2024-08-16T00:00:00-07:00</updated><id>https://gifdog97.github.io/blog/2024/08/16/quit_X</id><content type="html" xml:base="https://gifdog97.github.io/blog/2024/08/16/quit_X">&lt;p&gt;自分はXのアカウントを持っていて、ときどき呟くこともあったのですが、先日から閲覧するのをやめることにしました。
-端的に言えば、Xの負の側面をはっきりと感じたことが理由です。
-全くの無意味だとは思っていないため一応アカウントは残していますが、しばらくはログインもしない予定です。&lt;/p&gt;
-
-&lt;p&gt;自分はTwitter時代からこのSNSを使っていて、アカウントを消しては再開することを何度か繰り返していました。
-今回のアカウントはほぼほぼ研究用で、主に研究の情報を集めたり研究者と繋がったりする意図で使用していました。
-この役割は概ね果たすことができており、論文読み会などのイベント情報をキャッチして実際に参加したり、自身の論文を宣伝した結果FFが増えたりといったことに繋がりました。
-それはそれで良いことなのですが、自分にとって見たくない情報も多分に含まれることは確かでした。
-例えば、アカデミアに関するネガティブな意見や「研究者はこうあるべき」といった意見、あるいは自分より遥かに優れた実績を残す同世代の人々のポストなどです。
-基本的にこういったポストは無視し、自分にとって必要なことを淡々とこなし、自分が良いと思う生き方をしていけば良いのだと常々思ってはいるのですが、
-やはり目にしてしまうと全く気にせずにいるのは難しいものです。
-とはいっても、こういったポストはただ有害というわけではもちろんなく、研究者として生きていく上での現実を知る上で大いに役立つものですし、
-ある程度は参考にして自分の糧としていくべきものでもあります。
-そのため、こういった研究関連の見たくないポストは、Xを忌避する材料にはなれど閲覧をやめるきっかけにはなっていませんでした。&lt;/p&gt;
-
-&lt;p&gt;閲覧をやめた実際のきっかけは、2024パリ五輪のボルダー課題に関する炎上騒ぎです（炎上、という表現が正しいかは分かりませんが）。
-自分はクライミングが趣味なのでパリ五輪のスポーツクライミングには関心を持っていて、リアルタイムで試合を見ていました。
-その中で議論を呼んでいたのは女子ボルダーの決勝の第一課題です。
-この課題は日本の森選手だけがスタートホールドに手をかけることができずに0点となったものでした。
-身長があると有利な課題なので、身長の低い森選手にとっては確かに難しい課題だったと思います。
-こういったことは大会ではよくある印象なので自分は特に深く考えず楽しんでいたのですが、X上ではこの第一課題に対して非難の嵐でした。
-身長が低い森選手にとって不公平な課題を作るべきではないという意見、さらにはこれは森選手を貶める悪意のあるセットだ(!?)という意見まで見られました。
-最初この騒ぎを見たときにはただただ戸惑ってしまいました。
-そもそもボルダーという競技は、その性質上他の多くの競技と違い「毎回条件が異なる（＝課題が異なる）」という避けられない特色があります。
-この特色があってこそボルダーは面白く、各選手が自分の体格や技術を駆使していかに課題を攻略していくかを見るのが醍醐味と言えます。
-第三課題なんかはその面白さが顕著で、逆に森選手が激強ムーブで初の完登者となった課題でした。
-ちなみに、クライミング解説者の尾川氏も第三課題はむしろ長身の選手にとって不利とのコメントを残されています。&lt;/p&gt;
-
-&lt;p&gt;このような見方をすると、第一課題に対する非難はあまりにも短絡的であることが分かってきます。
-もちろん上述した醍醐味はあくまで自分の意見ですし、第一課題が低身長の選手にとって不利であることは認めます。
-それでもX上ではただ課題を非難するばかりの内容があまりに多く、かなりがっかり来てしまいました。&lt;/p&gt;
-
-&lt;p&gt;しかしこの事態をもう少し俯瞰してみると、これらの非難に対してただ憤りを感じるのも違うのではないかと気付きました。
-我々経験者からすれば上述の意見も自然と出てきますが、ボルダー未経験の一般大衆からすれば「不公平だ！」という意見が出るのもむしろ自然なことなのでしょう。
-「五輪なのだから一般大衆が見ても納得のいくような課題設定にすべき」という意見も少ないながら見られ、それは確かに一理あると思います。
-すなわち、よくよく考えてみればこういった非難が起こる理由も分かるし、みんなが不当な理由で非難しているわけではない、ということです。
-それでは自分の憤りの真の原因はどこにあったのかと言えば、「一般大衆によって拡散された主張一般」なのだと思います。
-「Xでバズるような何らかの主張が実態と乖離している」という事例は腐るほどあると思いますが、
-自分は一般大衆と興味の対象がズレていることもあり、バズツイートを見ても「なんだかよく分からんこと言ってるなぁ」ぐらいで済むことがほとんどでした。
-しかし今回は自分にとって比較的馴染み深いボルダーに関する一件だったため過敏に反応せざるを得ませんでした。
-すなわち、今まで自分の中でぼんやりしていた「SNSの闇」のようなものが急に顕現したため、「こんなものはもう見たくない」という気持ちが一気に押し寄せたのだと思います。
-うわ、ここってこんな場所だったんだ！噂には聞いていたが本当に酷い！！みたいな感じです。&lt;/p&gt;
-
-&lt;p&gt;今回書いた話は特に目新しいことでもなんでもない今更感のある話だとは思うのですが、
-自分にとってはXから距離を置こうと決心できる程度には大きな出来事でした。
-実際にはいちいちこんなことを気にしない心を持ってSNSと付き合っていけば良いと思うのですが、
-やっぱり見ていて気分の良いものではありませんし（なのになぜか見てしまいがち、意味不明）、最近は目に入る情報が画一化され過ぎている問題もあるので、
-平穏な心を取り戻すために閲覧をやめることにしました。
-今後はリアルの学会を中心にコミュニティを維持・拡大できるよう行動していきたいと思います。&lt;/p&gt;</content><author><name>Shunsuke Kando</name><email>skando@is.s.u-tokyo.ac.jp</email></author><category term="diary" /><summary type="html">自分はXのアカウントを持っていて、ときどき呟くこともあったのですが、先日から閲覧するのをやめることにしました。 端的に言えば、Xの負の側面をはっきりと感じたことが理由です。 全くの無意味だとは思っていないため一応アカウントは残していますが、しばらくはログインもしない予定です。</summary></entry><entry><title type="html">太陽の塔を見に行った</title><link href="https://gifdog97.github.io/blog/2024/05/23/tower_of_the_sun" rel="alternate" type="text/html" title="太陽の塔を見に行った" /><published>2024-05-23T00:00:00-07:00</published><updated>2024-05-23T00:00:00-07:00</updated><id>https://gifdog97.github.io/blog/2024/05/23/tower_of_the_sun</id><content type="html" xml:base="https://gifdog97.github.io/blog/2024/05/23/tower_of_the_sun">&lt;p&gt;岡本太郎は真っすぐで情熱的な人だな、と思います。
-彼は自分の信念を貫き通し、それを芸術作品という形で表現し続けてきました。
-会社員だった頃に彼の自伝を読み、芸術家としての（もっと言えば人間としての）矜持に感銘を受けたことを覚えています。
-彼の言葉は、自分が会社をやめて大学で研究員として働くという決断の後押しをしてくれました。&lt;/p&gt;
-
-&lt;p&gt;彼の作品を見に川崎市の岡本太郎美術館へ行ったことがあります。
-素晴らしい作品ばかりで、モニュメントのような大きな作品に関してはレプリカが飾られていました。
-いつか代表作『太陽の塔』を見に行きたいと思っていました。
-先日たまたま機会があり、大阪の万博記念公園にある『太陽の塔』を見ることができました。&lt;/p&gt;
-
-&lt;p&gt;大阪モノレールで万博記念公園駅へ向かい、公園に向けてやや回り道を強制させられる道中で『太陽の塔』の上部がすでに見えていました。
-想像以上に大きい姿を尻目に、関西クオリティの凄まじく安い入場料に驚きながらゲートを潜ると、すぐにその全貌が見えました。
-それまでは雑木林によって下部が隠れていたのですが、いざ全体像を目の当たりにするとさらに大きく感じられました。
-何にも似ていないのにやけに説得力のあるその姿に全身が衝撃を受けました。
-芸術品と言えばつい細部までじっくり見てみたくなるものですが、『太陽の塔』にはそのような考えを浮かべる余裕を与えないほどの圧倒的存在感がありました。&lt;/p&gt;
-
-&lt;p&gt;万博記念公園をあとにしてゆっくりと考えを進めました。
-あれはなんだったのだろうか？
-芸術品というよりは、イースター島のモアイ像よろしくまるで太古の昔からそこに存在していたかのような物体に見えました。
-岡本太郎と言えば縄文文化からの影響が非常に強いことが知られていますが、『太陽の塔』も例に漏れないのではないかと思います。
-ふと、縄文時代から現代までの時間差をそのまま未来に伸ばすことを空想しました。
-それは今から一万年後というスケールの時代です。
-西暦1XXXX年、加熱し切った地球には巨大植物が生い茂り、『太陽の塔』は今や未開となった地の深い森の奥にひっそりと佇んでいるかもしれない。
-そこで未来人は『太陽の塔』を発見し、我々が縄文土器を見たときと同じようなことを感じるのではないか。
-もちろん大きさはまるで違うが、「何か未知の凄まじいものを発見した」という感覚に陥るのではないか。&lt;/p&gt;
-
-&lt;p&gt;この作品を見てふと再び岡本太郎のことが気になり直し今一度調べたところ、『太陽の塔』は万博のテーマである「調和」に対抗する意図を持って創られたものだそうです。
-インタビューの中で彼は「弁証法的」という言葉を使っています。
-彼は「調和」と「非調和」をぶつけて戦わせ、それによって弁証法的に生まれるものを見たかったのではないかと思います。
-それによってどのようなジンテーゼが提示されるのか？
-自分には明確な答えがありません。
-そもそも答えなんかなくて、実は記号の概念を超えた存在かもしれない、、、などと思うのは逃げだろうか？&lt;/p&gt;
-
-&lt;p&gt;岡本太郎にとって芸術とは人生であり、闘いであると言います。
-生きていると、矛盾と闘わねばならない場面はとても沢山あります。
-むしろそれが生きることの本質なのではないかとすら思います。
-矛盾との戦いは人類普遍的なものであり、『太陽の塔』はそれを象徴しているからこそ心に残るのではないか、と思いました。&lt;/p&gt;</content><author><name>Shunsuke Kando</name><email>skando@is.s.u-tokyo.ac.jp</email></author><category term="diary" /><summary type="html">岡本太郎は真っすぐで情熱的な人だな、と思います。 彼は自分の信念を貫き通し、それを芸術作品という形で表現し続けてきました。 会社員だった頃に彼の自伝を読み、芸術家としての（もっと言えば人間としての）矜持に感銘を受けたことを覚えています。 彼の言葉は、自分が会社をやめて大学で研究員として働くという決断の後押しをしてくれました。</summary></entry></feed>
+名前は無くても、便利な言葉で人と共有できなくても、それでも自分の心に残るものを大切にしたいものです。&lt;/p&gt;</content><author><name>Shunsuke Kando</name><email>skando@is.s.u-tokyo.ac.jp</email></author><category term="diary" /><summary type="html">「ある人の容姿や趣味、人柄、口癖まで思い出せるのに、名前だけ思い出せない」現象のことを「ベイカ－ベイカーパラドクス」と呼ぶそうです。 Wikipedia の説明によれば、人の知識はシソーラス的なネットワーク構造を有しているため、名前のような恣意的な概念は他の概念と結びつきにくく、貧弱なネットワークしか構築できない、とのことです。 これはあくまで一つの説だとは思いますがなかなか面白い話だと思いました。</summary></entry></feed>
