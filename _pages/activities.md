@@ -6,28 +6,40 @@ Misc. activities except for publications.
 
 ## Education
 
-- **Master of Computer Science** (Apr 2020 - Mar 2022)  
+- Apr 2025 - present: **Doctor of Computer Science**  
 Department of Computer Science, The University of Tokyo, Japan  
 Supervisor: Prof. Yusuke Miyao
-- **Bachelor of Science** (Apr 2016 - Mar 2020)  
+- Apr 2020 - Mar 2022: **Master of Computer Science**  
+Department of Computer Science, The University of Tokyo, Japan  
+Supervisor: Prof. Yusuke Miyao
+- Apr 2016 - Mar 2020: **Bachelor of Information Science**  
 Department of Information Science, The University of Tokyo, Japan  
 Supervisor: Prof. Yusuke Miyao
 
 ## Work Experience
 
-- **Project Researcher** (Oct 2023 - present)  
+### Fulltime Experience
+
+- Oct 2023 - Mar 2025: **Project Researcher**   
 The University of Tokyo
-- **Software Engineer** (Apr 2022 - Sep 2023)  
+- Apr 2022 - Sep 2023: **Software Engineer**  
 Sony Group Corporation / Sony Honda Mobility
 
 ### Non-fulltime Experience
 
-- **Research Assistant** (Jan 2021 - Mar 2022)  
+- Apr 2025 - present: **Research Assistant**  
+ACT-X, Japan Science and Technology Agency (JST)
+- Jan 2021 - Mar 2022: **Research Assistant**   
 National Institute of Advanced Industrial Science and Technology (AIST)
-- **Software Engineer (Internship)** (Aug 2020 - Sep 2020)  
+- Aug 2020 - Sep 2020: **Software Engineer (Internship)**  
 FLYWHEEL Inc.
-- **Software Engineer (Internship)** (Feb 2019)  
+- Feb 2019: **Software Engineer (Internship)**  
 Fixstars Corporation
+
+## Budgets
+
+- Oct 2024 - Mar 2027: **Japan Science and Technology Agency (JST) ACT-X**  
+["テキスト資源に頼らない音声対話システムの構築"](https://projectdb.jst.go.jp/grant/JST-PROJECT-24030299/)
 
 ## Talks
 

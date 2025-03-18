@@ -2,8 +2,7 @@
 permalink: /publications
 ---
 
-I am preparing for the Google Scholar page where you can see a fully up-to-date list.  
-For Japanese researchers: [researchmap page](https://researchmap.jp/skando).
+[Researchmap page](https://researchmap.jp/skando) (mainly for Japanese researchers)
 
 ## Refereed
 
@@ -11,8 +10,16 @@ For Japanese researchers: [researchmap page](https://researchmap.jp/skando).
 1. <u>Shunsuke Kando</u>, Yusuke Miyao, Jason Naradowsky, Shinnosuke Takamichi. "[Textless Dependency Parsing by Labeled Sequence Prediction](https://www.isca-archive.org/interspeech_2024/kando24_interspeech.html)." INTERSPEECH 2024.
 1. <u>Shunsuke Kando</u>, Hiroshi Noji, Yusuke Miyao. "[Multilingual Syntax-aware Language Modeling through Dependency Tree Conversion](https://aclanthology.org/2022.spnlp-1.1/)." Sixth Workshop on Structured Prediction for NLP (SPNLP 2022).
 
+## Preprints
+
+1. Ryo Ueda, Tatuski Kuribayashi, <u>Shunsuke Kando</u>, Kentaro Inui. "[Syntactic Learnability of Echo State Neural Language Models at Scale](https://arxiv.org/abs/2503.01724)." arXiv.
+
 ## Non-refereed (Domestic)
 
+1. <u>神藤 駿介</u>, 宮尾 祐介, 高道慎之介. "[音声トークナイズが音声言語モデルの性能に与える影響の調査](https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/P5-19.pdf)." 言語処理学会第31回年次大会 (NLP2025).
+1. 上田 亮, 栗林 樹生, <u>神藤 駿介</u>, 乾 健太郎. "[RNNの回帰行列を凍結しても統語構造の獲得は損なわれない](https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/D5-4.pdf)." 言語処理学会第31回年次大会 (NLP2025).
+1. 古賀 友里愛, <u>神藤 駿介</u>, 宮尾 祐介. "[音声モデルにおけるCritical Period仮説の検証](https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/C7-4.pdf)." 言語処理学会第31回年次大会 (NLP2025).
+1. 山岸 聖子, <u>神藤 駿介</u>, 宮尾 祐介. "[大規模言語モデルの法廷通訳への導入可能性の検証](https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/A4-6.pdf)." 言語処理学会第31回年次大会 (NLP2025).
 1. 古賀 友里愛, <u>神藤 駿介</u>, 宮尾 祐介. "[対話における発話に反映されない聞き手の感情推定](https://confit.atlas.jp/guide/event/jsai2024/subject/4Xin2-46/advanced)." 人工知能学会第38回全国大会 (JSAI2024).
 1. <u>神藤 駿介</u>, 宮尾 祐介. "[ラベル付き系列予測による音声シグナルの Textless 依存構造解析](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/B5-2.pdf)." 言語処理学会第30回年次大会 (NLP2024). **(委員特別賞)**
 1. 若崎 颯, <u>神藤 駿介</u>, 宮尾 祐介. "[描写内容に従った音楽評論文書の分類に対する自動化アプローチ](https://confit.atlas.jp/guide/event/jsai2022/subject/1P5-GS-6-03/date?cryptoId=)." 人工知能学会第36回全国大会 (JSAI2022).

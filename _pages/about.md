@@ -12,7 +12,6 @@ I am a daydreamer loving music and climbing.
 
 ## Research interests
 
-- Computational Linguistics
 - Spoken Language Processing
 - Language Acquisition
 
