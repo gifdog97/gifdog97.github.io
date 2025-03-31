@@ -1,4 +1,43 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-03-17T23:54:23-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Home</title><subtitle>personal description</subtitle><author><name>Shunsuke Kando</name></author><entry><title type="html">雑なスケッチで論文執筆の初動を起こそう</title><link href="http://localhost:4000/blog/2025/02/10/sketch_paper_writing" rel="alternate" type="text/html" title="雑なスケッチで論文執筆の初動を起こそう" /><published>2025-02-10T00:00:00-08:00</published><updated>2025-02-10T00:00:00-08:00</updated><id>http://localhost:4000/blog/2025/02/10/sketch_paper_writing</id><content type="html" xml:base="http://localhost:4000/blog/2025/02/10/sketch_paper_writing">&lt;p&gt;たまには研究の話でも書いてみる。今回は論文執筆について。&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-03-31T08:34:34-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Home</title><subtitle>personal description</subtitle><author><name>Shunsuke Kando</name></author><entry><title type="html">米研ぎ</title><link href="http://localhost:4000/blog/2025/04/01/cleaning_rice" rel="alternate" type="text/html" title="米研ぎ" /><published>2025-04-01T00:00:00-07:00</published><updated>2025-04-01T00:00:00-07:00</updated><id>http://localhost:4000/blog/2025/04/01/cleaning_rice</id><content type="html" xml:base="http://localhost:4000/blog/2025/04/01/cleaning_rice">&lt;p&gt;お米を研ぐときのことを考えてみよう。
+まず第一に、米を水で満たしてすぐに捨てる。
+乾いた米には水がすぐに染み込んでしまうため綺麗な水を使うこと、
+米についた糠の匂いが米に吸収されてしまうことを防ぐためすぐに捨てること。
+この2点が肝要である。
+以降の手順でも共通のことではあるが、ここで全ての水を捨てることはできない。
+さすれば全ての米が流しに捨てられてしまうためである。
+そのため、以下の手順は微妙に水が残った状態で行う。
+力を入れ過ぎずにシャカシャカと混ぜるような仕草で米を研ぐ。
+ここで力を入れ過ぎると米が割れてしまうので注意する。
+ある程度できたら水を加え、濁り度合いを見る。
+初回は糠が大量に出るから当然真っ白である。
+水を捨てて、研ぐ手順をもう一度。
+半透明になるぐらいまで作業を繰り返す。
+完全に透明になるまで研いではいけない。
+米の栄養や美味しさまで落ちてしまうためである。&lt;/p&gt;
+
+&lt;p&gt;と、ここでふと気がついたのだが、もしかして研ぐ手順は一回で済むのではないだろうか？
+米を研ぐ際にシャカシャカした合計回数の統計を取り、毎回その回数の平均値（ないし中央値）だけやって水を加えて捨てる作業をすれば一回で済むはずであるし、別段問題も無いように思われる。
+いちいち水を入れ替える作業が省かれるので時間的節約にもなるし、回数を固定することで研ぎにぶれも無くなって味が決まるという利点もある。
+ただし、何合炊くかによってシャカシャカ回数Sが変わってくることには注意が必要である。
+体感だとなんとなく線形にはならない気がしており、2合研ぐのにかかるSは1合の2倍以上であるように思われる。
+実行に移すならばそれも含めて検証が必要である。
+一人暮らしであれば大抵1合、1.5合、2合あたりを抑えておけば良い。&lt;/p&gt;
+
+&lt;p&gt;はい。
+面倒なのでそんなことはしません。
+今まで通り、透明度を確認しながら何度か米を研いでいきたいと思います。
+一体なぜ？
+検証を繰り返して研ぐ回数を定めさえすれば、あとは楽ができることが見えているのに。
+コストをかけて機械化することで自身の労働を解放できるのに。
+理由は簡単で、普段の作業にそれほど煩わしさを感じていないからである。
+米を2-3回研ぎ直すぐらいのことを改善したいとは思わない。
+それはそのままあっても良い程度の無駄である。
+洗濯機が洗濯板を代替することによって生まれる効果を考えれば屁でも無い。
+大体、そこを効率化したければ無洗米を買えば良い話である。
+まさにコストをかけて楽をするわけだ。&lt;/p&gt;
+
+&lt;p&gt;とはいえこういう思考実験はそれそのものとして面白いものだ。
+くだらないことでも自由に考える時間は大切だと思ったので、これをもって博士課程入学初日の記録とさせていただく。&lt;/p&gt;</content><author><name>Shunsuke Kando</name></author><category term="diary" /><summary type="html">お米を研ぐときのことを考えてみよう。 まず第一に、米を水で満たしてすぐに捨てる。 乾いた米には水がすぐに染み込んでしまうため綺麗な水を使うこと、 米についた糠の匂いが米に吸収されてしまうことを防ぐためすぐに捨てること。 この2点が肝要である。 以降の手順でも共通のことではあるが、ここで全ての水を捨てることはできない。 さすれば全ての米が流しに捨てられてしまうためである。 そのため、以下の手順は微妙に水が残った状態で行う。 力を入れ過ぎずにシャカシャカと混ぜるような仕草で米を研ぐ。 ここで力を入れ過ぎると米が割れてしまうので注意する。 ある程度できたら水を加え、濁り度合いを見る。 初回は糠が大量に出るから当然真っ白である。 水を捨てて、研ぐ手順をもう一度。 半透明になるぐらいまで作業を繰り返す。 完全に透明になるまで研いではいけない。 米の栄養や美味しさまで落ちてしまうためである。</summary></entry><entry><title type="html">雑なスケッチで論文執筆の初動を起こそう</title><link href="http://localhost:4000/blog/2025/02/10/sketch_paper_writing" rel="alternate" type="text/html" title="雑なスケッチで論文執筆の初動を起こそう" /><published>2025-02-10T00:00:00-08:00</published><updated>2025-02-10T00:00:00-08:00</updated><id>http://localhost:4000/blog/2025/02/10/sketch_paper_writing</id><content type="html" xml:base="http://localhost:4000/blog/2025/02/10/sketch_paper_writing">&lt;p&gt;たまには研究の話でも書いてみる。今回は論文執筆について。&lt;/p&gt;
 
 &lt;p&gt;自分はまだまだ経験が浅く確たることは言えないが、論文を執筆する際の一番の障壁は「初動」にあるのではないかと思う。
 締切が近づいているけどなかなか書き始められない。
@@ -940,40 +979,4 @@ RPGであれば、魔族の中でも特に強力なボスの名前であり、�
 何かが楽しいと思っても、どこか冷めてしまっているところがある（もちろん、それが悪いことだとは思っていない。なんならただのキモい勘違いかもしれない）。
 仮にそうだとすれば、逆に楽しい音楽を聴いてもあまり何も感じることができず、暗いもの（あるいは明確な感情を超えたもの）に同情や感動を感じるのも分からなくはない。&lt;/p&gt;
 
-&lt;p&gt;暗いことは悪いことではない。心から充実していると思う。&lt;/p&gt;</content><author><name>Shunsuke Kando</name></author><category term="music" /><summary type="html">一昔前のやたら悲しい日本の音楽が好きである。</summary></entry><entry><title type="html">ベイカーベイカーパラドクス</title><link href="http://localhost:4000/blog/2024/08/17/baker" rel="alternate" type="text/html" title="ベイカーベイカーパラドクス" /><published>2024-08-17T00:00:00-07:00</published><updated>2024-08-17T00:00:00-07:00</updated><id>http://localhost:4000/blog/2024/08/17/baker</id><content type="html" xml:base="http://localhost:4000/blog/2024/08/17/baker">&lt;p&gt;「ある人の容姿や趣味、人柄、口癖まで思い出せるのに、名前だけ思い出せない」現象のことを「&lt;a href=&quot;https://ja.wikipedia.org/wiki/ベイカーベイカーパラドクス&quot;&gt;ベイカ－ベイカーパラドクス&lt;/a&gt;」と呼ぶそうです。
-Wikipedia の説明によれば、人の知識はシソーラス的なネットワーク構造を有しているため、名前のような恣意的な概念は他の概念と結びつきにくく、貧弱なネットワークしか構築できない、とのことです。
-これはあくまで一つの説だとは思いますがなかなか面白い話だと思いました。&lt;/p&gt;
-
-&lt;p&gt;関係しそうな話として、自分は音楽が好きな割に、曲のタイトルやアーティストの名前を覚えるのが苦手です。
-ものすごく好きな曲でもう何度も聴いているのにいまだに名前を覚えていないという曲が沢山あります。
-特に国外の音楽に顕著で、英語以外の言語だと特に厳しいものがあります。
-例えば以下の曲はかなり何度も聴いているのにタイトルを全く覚えていませんでした。&lt;/p&gt;
-
-&lt;div class=&quot;embed-container&quot;&gt;
-    &lt;iframe class=&quot;youtubeManager&quot; src=&quot;https://www.youtube.com/embed/lnHiyAa_mig&quot; width=&quot;560&quot; height=&quot;315&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;true&quot;&gt;
-    &lt;/iframe&gt;
-  &lt;/div&gt;
-&lt;div class=&quot;embed-container&quot;&gt;
-    &lt;iframe class=&quot;youtubeManager&quot; src=&quot;https://www.youtube.com/embed/zYijx4MJ5b0&quot; width=&quot;560&quot; height=&quot;315&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;true&quot;&gt;
-    &lt;/iframe&gt;
-  &lt;/div&gt;
-&lt;div class=&quot;embed-container&quot;&gt;
-    &lt;iframe class=&quot;youtubeManager&quot; src=&quot;https://www.youtube.com/embed/Jz_Sqv_t3zY&quot; width=&quot;560&quot; height=&quot;315&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;true&quot;&gt;
-    &lt;/iframe&gt;
-  &lt;/div&gt;
-
-&lt;p&gt;もちろん、だからといって自分にとってその曲の価値が失われるわけでは全くありません。
-自分はとにかく全体として聴いていて面白い！と感じられる音楽が好きで、曲のタイトルについてはいっそどうでも良いと思っている節があります。
-これに付随して歌詞なんかもほとんど聴かないことが多いです。
-例えば平沢進は好きですが、歌詞について考えたことはほとんどありません（こういうのは邪道と思われるかもしれませんが）。
-基本的に音楽のメッセージ性？みたいなものには無頓着で、面白いことをやっているならそれで良いと思ってしまいます。
-プログレが好きな時期もありましたが、コンセプトアルバムとしてのメッセージにはほとんど興味が無く、演奏技術や曲そのものの楽しさ・情感に感動を覚えていました。&lt;/p&gt;
-
-&lt;p&gt;ただ最近は少し視野を広げていて、ちゃんと歌詞も聴いてみることが増えました。
-こうやって聴いてみると曲に対する感動が一層増し、歌詞もセットで一つの作品だったんだなあという気持ちになります（当たり前）。
-何よりだんだん曲とタイトルと結びつくようになっていって、タイトルを覚えられるようになってきましたし、タイトルまでセットで一つの作品だったんだなあという気持ちになってきました（当たり前）。
-覚える必要があるのかというとよく分かりませんが、まあ人とコミュニケーションを取るときには名前を知っていた方が便利です。
-でも人と音楽談義をする気もないので、やっぱり覚える必要は無い気もしてきました。&lt;/p&gt;
-
-&lt;p&gt;結論、歌詞のある音楽は歌詞もセットで一つの作品であることは認めつつも、歌詞が全く分からなくても心に響くような音楽がやっぱり好きだと思います。
-名前は無くても、便利な言葉で人と共有できなくても、それでも自分の心に残るものを大切にしたいものです。&lt;/p&gt;</content><author><name>Shunsuke Kando</name></author><category term="diary" /><summary type="html">「ある人の容姿や趣味、人柄、口癖まで思い出せるのに、名前だけ思い出せない」現象のことを「ベイカ－ベイカーパラドクス」と呼ぶそうです。 Wikipedia の説明によれば、人の知識はシソーラス的なネットワーク構造を有しているため、名前のような恣意的な概念は他の概念と結びつきにくく、貧弱なネットワークしか構築できない、とのことです。 これはあくまで一つの説だとは思いますがなかなか面白い話だと思いました。</summary></entry></feed>
+&lt;p&gt;暗いことは悪いことではない。心から充実していると思う。&lt;/p&gt;</content><author><name>Shunsuke Kando</name></author><category term="music" /><summary type="html">一昔前のやたら悲しい日本の音楽が好きである。</summary></entry></feed>

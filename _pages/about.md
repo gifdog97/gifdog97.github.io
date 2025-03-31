@@ -6,7 +6,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a project researcher in the Department of Computer Science at The University of Tokyo.
+I am a 1st year PhD student at The University of Tokyo.
 I am working on Computational Linguistics / Natural Language Processing.
 I am a daydreamer loving music and climbing.
 
