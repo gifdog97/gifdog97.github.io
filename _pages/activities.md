@@ -27,8 +27,12 @@ Sony Group Corporation / Sony Honda Mobility
 
 ### Non-fulltime Experience
 
+- Apr 2025 - present: **Research Engineer (Outsourcing)**  
+DubGuild
 - Apr 2025 - present: **Research Assistant**  
 ACT-X, Japan Science and Technology Agency (JST)
+- Apr 2025 - present: **Research Assistant**  
+National Institute of Informatics (NII)
 - Jan 2021 - Mar 2022: **Research Assistant**   
 National Institute of Advanced Industrial Science and Technology (AIST)
 - Aug 2020 - Sep 2020: **Software Engineer (Internship)**  
