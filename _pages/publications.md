@@ -6,6 +6,7 @@ permalink: /publications
 
 ## Refereed
 
+1. <u>Shunsuke Kando</u>, Yusuke Miyao, Shinnosuke Takamichi. "[Exploring the Effect of Segmentation and Vocabulary Size on Speech Tokenization for Speech Language Models](xxx)." INTERSPEECH 2025. [To Appear]
 1. Yurie Koga, <u>Shunsuke Kando</u>, Yusuke Miyao. "[Forecasting Implicit Emotions Elicited in Conversations](https://aclanthology.org/2024.inlg-main.12/)." INLG 2024.
 1. <u>Shunsuke Kando</u>, Yusuke Miyao, Jason Naradowsky, Shinnosuke Takamichi. "[Textless Dependency Parsing by Labeled Sequence Prediction](https://www.isca-archive.org/interspeech_2024/kando24_interspeech.html)." INTERSPEECH 2024.
 1. <u>Shunsuke Kando</u>, Hiroshi Noji, Yusuke Miyao. "[Multilingual Syntax-aware Language Modeling through Dependency Tree Conversion](https://aclanthology.org/2022.spnlp-1.1/)." Sixth Workshop on Structured Prediction for NLP (SPNLP 2022).
@@ -16,6 +17,7 @@ permalink: /publications
 
 ## Non-refereed (Domestic)
 
+1. 朴 浚鎔, 高道 慎之介, David M. Chan , <u>神藤 駿介</u>, 齋藤 佑樹, 猿渡 洋. "[音声トークンの言語に関する分析](https://www.ipsj.or.jp/kenkyukai/event/mus143slp156.html)." 音学シンポジウム 2025. **(優秀発表賞)**
 1. <u>神藤 駿介</u>, 宮尾 祐介, 高道慎之介. "[音声トークナイズが音声言語モデルの性能に与える影響の調査](https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/P5-19.pdf)." 言語処理学会第31回年次大会 (NLP2025).
 1. 上田 亮, 栗林 樹生, <u>神藤 駿介</u>, 乾 健太郎. "[RNNの回帰行列を凍結しても統語構造の獲得は損なわれない](https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/D5-4.pdf)." 言語処理学会第31回年次大会 (NLP2025).
 1. 古賀 友里愛, <u>神藤 駿介</u>, 宮尾 祐介. "[音声モデルにおけるCritical Period仮説の検証](https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/C7-4.pdf)." 言語処理学会第31回年次大会 (NLP2025).
