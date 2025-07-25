@@ -1,4 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-06-15T07:52:57-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Home</title><subtitle>personal description</subtitle><author><name>Shunsuke Kando</name></author><entry><title type="html">米研ぎ</title><link href="http://localhost:4000/blog/2025/04/01/cleaning_rice" rel="alternate" type="text/html" title="米研ぎ" /><published>2025-04-01T00:00:00-07:00</published><updated>2025-04-01T00:00:00-07:00</updated><id>http://localhost:4000/blog/2025/04/01/cleaning_rice</id><content type="html" xml:base="http://localhost:4000/blog/2025/04/01/cleaning_rice">&lt;p&gt;お米を研ぐときのことを考えてみよう。
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-07-24T22:12:04-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Home</title><subtitle>personal description</subtitle><author><name>Shunsuke Kando</name></author><entry><title type="html">Xのアカウントを消した</title><link href="http://localhost:4000/blog/2025/07/25/delete_X" rel="alternate" type="text/html" title="Xのアカウントを消した" /><published>2025-07-25T00:00:00-07:00</published><updated>2025-07-25T00:00:00-07:00</updated><id>http://localhost:4000/blog/2025/07/25/delete_X</id><content type="html" xml:base="http://localhost:4000/blog/2025/07/25/delete_X">&lt;p&gt;本日、勢いでXのアカウントを削除した。
+忘れないうちにホームページからもXの情報を消し、そのついでにしばらく書いてなかったし短いブログでも書き残しておくか、と思った。&lt;/p&gt;
+
+&lt;p&gt;旧Twitterを始めたのは確か高校に入ってすぐである。
+途中でアカウントを消して復活させたりした時期もあったものの、実に足掛け13年眺めていたことになる。
+最近の仕様なのか、ログインしていないとログインを促されてしまって情報にアクセスできないケースもあるため、不本意ながらFF0人のアカウントは用意してあるが、少なくとも今後何かを発信したり積極的に見に行ったりといったことはなくなるであろう。&lt;/p&gt;
+
+&lt;p&gt;最近のXの使用状況を振り返ると、主に論文や講演を始めとした研究関連の情報収集が主であった。
+Xでカジュアルに流れてくる情報は一見他では得られないような価値あるものに見えるが、そのほとんどはキャッチしなくても良いものか、他の媒体（Google Scholarのサジェストなど）でも十分キャッチできるものである。
+むしろXで流れてくる真偽不明の情報や他人の成果報告、アカデミアに対する不平不満などに心をかき乱される機会の方が多い。
+自分から何かを発信すると多少の宣伝効果は得られるかもしれないが、それは実績を以て分からせれば良い話である。
+研究者として必要なことは虚心坦懐に自身の研究トピックに取り組むことであり、Xの存在はその目標に向けてはほとんど意味を持たない。
+研究以外の余白や無駄という観点で見ても有害であることは明らかである。&lt;/p&gt;
+
+&lt;p&gt;最近なんだか研究も日常生活も楽しいので、この調子で健やかに過ごしてきたい。&lt;/p&gt;</content><author><name>Shunsuke Kando</name></author><category term="diary" /><summary type="html">本日、勢いでXのアカウントを削除した。 忘れないうちにホームページからもXの情報を消し、そのついでにしばらく書いてなかったし短いブログでも書き残しておくか、と思った。</summary></entry><entry><title type="html">米研ぎ</title><link href="http://localhost:4000/blog/2025/04/01/cleaning_rice" rel="alternate" type="text/html" title="米研ぎ" /><published>2025-04-01T00:00:00-07:00</published><updated>2025-04-01T00:00:00-07:00</updated><id>http://localhost:4000/blog/2025/04/01/cleaning_rice</id><content type="html" xml:base="http://localhost:4000/blog/2025/04/01/cleaning_rice">&lt;p&gt;お米を研ぐときのことを考えてみよう。
 まず第一に、米を水で満たしてすぐに捨てる。
 乾いた米には水がすぐに染み込んでしまうため綺麗な水を使うこと、
 米についた糠の匂いが米に吸収されてしまうことを防ぐためすぐに捨てること。
@@ -938,45 +952,4 @@ RPGであれば、魔族の中でも特に強力なボスの名前であり、�
 そもそもタコだの魚の目だの、この業界のネーミングはちょっとお魚の世界観が過ぎるのではなかろうか。
 そんな能天気な世界に「デスモグレイン」とはいかがなものか。
 「フジツボ」とでも名付けておけばよろしい。
-いやはや、ネーミングとはとかく奇妙なものである。&lt;/p&gt;</content><author><name>Shunsuke Kando</name></author><category term="diary" /><summary type="html">数ヶ月ほど前から、右足の親指の関節のところに大きな魚の目ができて困っていた。 普段の生活には支障は無いのだが、クライミングシューズを履くと傷んでしまって登れないのである。 クライミングシューズは、出来るだけ小さいものを履くことでつま先での踏み込みがしやすくなって有利になるものである。 しかし、その弊害としてタコや魚の目ができやすくなってしまったり、それが痛みに繋がったりしてしまうわけである。 特に魚の目は角質が皮膚の深くまで侵食することで芯が出来てしまうので、圧迫されると痛みやすい。</summary></entry><entry><title type="html">早川義夫と森田童子</title><link href="http://localhost:4000/blog/2024/09/12/hayakawa_morita" rel="alternate" type="text/html" title="早川義夫と森田童子" /><published>2024-09-12T00:00:00-07:00</published><updated>2024-09-12T00:00:00-07:00</updated><id>http://localhost:4000/blog/2024/09/12/hayakawa_morita</id><content type="html" xml:base="http://localhost:4000/blog/2024/09/12/hayakawa_morita">&lt;p&gt;一昔前のやたら悲しい日本の音楽が好きである。&lt;/p&gt;
-
-&lt;p&gt;最近、&lt;strong&gt;早川義夫&lt;/strong&gt; という歌手の存在を知った。
-きっかけは筋肉少女帯の「人間のバラード」という曲である。
-元々この曲は大好きで時々聴いていたのだが、先日また聴こうと思い検索したときに早川義夫によるカバーが見つかった。
-なんでも原曲のピアノおよびバックコーラスも早川義夫だという。
-いやはや気がつくのが遅かった。&lt;/p&gt;
-
-&lt;p&gt;その悲しい歌声に惹かれて他の曲も聴いてみたが、どれもとても暗く、ときにユーモラスで素晴らしい歌手だと思った。
-個人的に楽器隊が極度に少ない形式の音楽が好きであることもあり、そこもとても気に入っている。
-歌詞は非常にストレートに暗いものである。&lt;/p&gt;
-
-&lt;div class=&quot;embed-container&quot;&gt;
-    &lt;iframe class=&quot;youtubeManager&quot; src=&quot;https://www.youtube.com/embed/bMoFQV0uqeg&quot; width=&quot;560&quot; height=&quot;315&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;true&quot;&gt;
-    &lt;/iframe&gt;
-  &lt;/div&gt;
-
-&lt;p&gt;「躁と鬱の間で」は、不安定な心の様子を痛烈にまっすぐに表現した曲である。
-表現の面でも面白い部分があり、「後悔と嫌悪の連続」というネガティブな詩がメジャー調のコードで解決されることで「躁鬱感」が醸し出されている。
-最近の個人的な関心は「いかにして矛盾と格闘し止揚するか」にあるので、そういった意味でもシンパシーを感じるものである。
-尤も、この歌は上昇を諦めてしまっているようにも思われるのだが、諦めもまた止揚なのかもしれない。&lt;/p&gt;
-
-&lt;p&gt;楽器隊が少なく且つストレートに暗い歌手として &lt;strong&gt;森田童子&lt;/strong&gt; がいる。
-5年ほど前、兄と二人暮らしをしているとき、兄がなぜか昭和のヒットソングメドレーのようなものをスピーカーから垂れ流していたときに一際異彩を放っていたことをきっかけに知った。
-歌手名を知ろうともスピーカーから流れた音しかヒントが無かったが、わざわざ兄に巻き戻してもらうのもなんだか恥ずかしく、聞こえてきた歌詞の断片をもとにウェブで検索して探し出したものである。&lt;/p&gt;
-
-&lt;div class=&quot;embed-container&quot;&gt;
-    &lt;iframe class=&quot;youtubeManager&quot; src=&quot;https://www.youtube.com/embed/VPoGuaH29MQ&quot; width=&quot;560&quot; height=&quot;315&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;true&quot;&gt;
-    &lt;/iframe&gt;
-  &lt;/div&gt;
-
-&lt;p&gt;このとき聴いたのが代表曲「僕たちの失敗」である。
-過去と今との引き裂かれの中で、僕だけがずっとだめなまま生き続けてきた。
-そんな寂しさを感じる曲だと思う。
-同じメロディーを朗々と繰り返す形式も最近のお気に入りである。&lt;/p&gt;
-
-&lt;p&gt;なぜこんなに暗い曲が好きなのか？
-あまり深く考えたことはなかったが、心から楽しいと思った経験があまり無いことが原因なのかもしれない。
-何かが楽しいと思っても、どこか冷めてしまっているところがある（もちろん、それが悪いことだとは思っていない。なんならただのキモい勘違いかもしれない）。
-仮にそうだとすれば、逆に楽しい音楽を聴いてもあまり何も感じることができず、暗いもの（あるいは明確な感情を超えたもの）に同情や感動を感じるのも分からなくはない。&lt;/p&gt;
-
-&lt;p&gt;暗いことは悪いことではない。心から充実していると思う。&lt;/p&gt;</content><author><name>Shunsuke Kando</name></author><category term="music" /><summary type="html">一昔前のやたら悲しい日本の音楽が好きである。</summary></entry></feed>
+いやはや、ネーミングとはとかく奇妙なものである。&lt;/p&gt;</content><author><name>Shunsuke Kando</name></author><category term="diary" /><summary type="html">数ヶ月ほど前から、右足の親指の関節のところに大きな魚の目ができて困っていた。 普段の生活には支障は無いのだが、クライミングシューズを履くと傷んでしまって登れないのである。 クライミングシューズは、出来るだけ小さいものを履くことでつま先での踏み込みがしやすくなって有利になるものである。 しかし、その弊害としてタコや魚の目ができやすくなってしまったり、それが痛みに繋がったりしてしまうわけである。 特に魚の目は角質が皮膚の深くまで侵食することで芯が出来てしまうので、圧迫されると痛みやすい。</summary></entry></feed>
