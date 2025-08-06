@@ -6,6 +6,8 @@ permalink: /publications
 
 ## Refereed
 
+1. Joonyong Park, Shinnosuke Takamichi, David M. Chan, <u>Shunsuke Kando</u>, Yuki Saito, Hiroshi Saruwatari. "[Analysing the Language of Neural Audio Codecs](xxx)." ASRU 2025. [To Appear]
+1. Yurie Koga, <u>Shunsuke Kando</u>, Yusuke Miyao. "[Do Self-Supervised Speech Models Exhibit the Critical Period Effects in Language Acquisition?](xxx)." ASRU 2025. [To Appear]
 1. <u>Shunsuke Kando</u>, Yusuke Miyao, Shinnosuke Takamichi. "[Exploring the Effect of Segmentation and Vocabulary Size on Speech Tokenization for Speech Language Models](xxx)." INTERSPEECH 2025. [To Appear]
 1. Yurie Koga, <u>Shunsuke Kando</u>, Yusuke Miyao. "[Forecasting Implicit Emotions Elicited in Conversations](https://aclanthology.org/2024.inlg-main.12/)." INLG 2024.
 1. <u>Shunsuke Kando</u>, Yusuke Miyao, Jason Naradowsky, Shinnosuke Takamichi. "[Textless Dependency Parsing by Labeled Sequence Prediction](https://www.isca-archive.org/interspeech_2024/kando24_interspeech.html)." INTERSPEECH 2024.
