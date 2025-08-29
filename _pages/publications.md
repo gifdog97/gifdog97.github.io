@@ -8,7 +8,7 @@ permalink: /publications
 
 1. Joonyong Park, Shinnosuke Takamichi, David M. Chan, <u>Shunsuke Kando</u>, Yuki Saito, Hiroshi Saruwatari. "[Analysing the Language of Neural Audio Codecs](xxx)." ASRU 2025. [To Appear]
 1. Yurie Koga, <u>Shunsuke Kando</u>, Yusuke Miyao. "[Do Self-Supervised Speech Models Exhibit the Critical Period Effects in Language Acquisition?](xxx)." ASRU 2025. [To Appear]
-1. <u>Shunsuke Kando</u>, Yusuke Miyao, Shinnosuke Takamichi. "[Exploring the Effect of Segmentation and Vocabulary Size on Speech Tokenization for Speech Language Models](xxx)." INTERSPEECH 2025. [To Appear]
+1. <u>Shunsuke Kando</u>, Yusuke Miyao, Shinnosuke Takamichi. "[Exploring the Effect of Segmentation and Vocabulary Size on Speech Tokenization for Speech Language Models](https://www.isca-archive.org/interspeech_2025/kando25_interspeech.html)." INTERSPEECH 2025.
 1. Yurie Koga, <u>Shunsuke Kando</u>, Yusuke Miyao. "[Forecasting Implicit Emotions Elicited in Conversations](https://aclanthology.org/2024.inlg-main.12/)." INLG 2024.
 1. <u>Shunsuke Kando</u>, Yusuke Miyao, Jason Naradowsky, Shinnosuke Takamichi. "[Textless Dependency Parsing by Labeled Sequence Prediction](https://www.isca-archive.org/interspeech_2024/kando24_interspeech.html)." INTERSPEECH 2024.
 1. <u>Shunsuke Kando</u>, Hiroshi Noji, Yusuke Miyao. "[Multilingual Syntax-aware Language Modeling through Dependency Tree Conversion](https://aclanthology.org/2022.spnlp-1.1/)." Sixth Workshop on Structured Prediction for NLP (SPNLP 2022).
@@ -19,6 +19,9 @@ permalink: /publications
 
 ## Non-refereed (Domestic)
 
+1. <u>神藤 駿介</u>, 宮尾 祐介. "[自発音声のモデルとしての音声言語モデル](https://yans.anlp.jp/entry/yans2025program)." NLP若手の会第20回シンポジウム (YANS2025).
+1. 古賀 友里愛, <u>神藤 駿介</u>, 宮尾 祐介. "[日本語における音声弁別ABX評価データセットの構築](https://yans.anlp.jp/entry/yans2025program)." NLP若手の会第20回シンポジウム (YANS2025).
+1. <u>神藤 駿介</u>, 高道 慎之介, 宮尾 祐介. "[どのような音声離散表現が音声の再合成と継続に適するか？](https://acoustics.jp/cms/wp_asj/wp-content/uploads/009_2025autumn_program.pdf)." 日本音響学会第154回(2025年秋季)研究発表会.
 1. 朴 浚鎔, 高道 慎之介, David M. Chan , <u>神藤 駿介</u>, 齋藤 佑樹, 猿渡 洋. "[音声トークンの言語に関する分析](https://www.ipsj.or.jp/kenkyukai/event/mus143slp156.html)." 音学シンポジウム 2025. **(優秀発表賞)**
 1. <u>神藤 駿介</u>, 宮尾 祐介, 高道慎之介. "[音声トークナイズが音声言語モデルの性能に与える影響の調査](https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/P5-19.pdf)." 言語処理学会第31回年次大会 (NLP2025).
 1. 上田 亮, 栗林 樹生, <u>神藤 駿介</u>, 乾 健太郎. "[RNNの回帰行列を凍結しても統語構造の獲得は損なわれない](https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/D5-4.pdf)." 言語処理学会第31回年次大会 (NLP2025).
@@ -28,4 +31,5 @@ permalink: /publications
 1. <u>神藤 駿介</u>, 宮尾 祐介. "[ラベル付き系列予測による音声シグナルの Textless 依存構造解析](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/B5-2.pdf)." 言語処理学会第30回年次大会 (NLP2024). **(委員特別賞)**
 1. 若崎 颯, <u>神藤 駿介</u>, 宮尾 祐介. "[描写内容に従った音楽評論文書の分類に対する自動化アプローチ](https://confit.atlas.jp/guide/event/jsai2022/subject/1P5-GS-6-03/date?cryptoId=)." 人工知能学会第36回全国大会 (JSAI2022).
 1. <u>神藤 駿介</u>, 能地 宏, 宮尾 祐介. "[言語モデルの統語構造把握能力を測定するより妥当な多言語評価セットの構築](https://www.anlp.jp/proceedings/annual_meeting/2022/pdf_dir/G5-1.pdf)." 言語処理学会第28回年次大会 (NLP2022).
+1. <u>神藤 駿介</u>, 能地 宏, 宮尾 祐介. "[文法把握能力の高い言語モデルの多言語拡張に向けて - 現状と課題](https://yans.anlp.jp/entry/yans2021program)." NLP若手の会第16回シンポジウム (YANS2021).
 1. <u>神藤 駿介</u>, 能地 宏, 宮尾 祐介. "[依存構造から句構造への変換による多言語モデリングに向けて](https://www.anlp.jp/proceedings/annual_meeting/2021/pdf_dir/P5-1.pdf)." 言語処理学会第27回年次大会 (NLP2021).
