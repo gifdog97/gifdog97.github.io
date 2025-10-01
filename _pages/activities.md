@@ -42,6 +42,8 @@ Fixstars Corporation
 
 ## Budgets
 
+- Apr 2026 - Mar 2028: **Japan Society for the Promotion of Science (JSPS) DC2**  
+["乳幼児が接する小規模音声データを用いた言語獲得モデルの構築と評価"](xxx)
 - Oct 2024 - Mar 2027: **Japan Science and Technology Agency (JST) ACT-X**  
 ["テキスト資源に頼らない音声対話システムの構築"](https://projectdb.jst.go.jp/grant/JST-PROJECT-24030299/)
 
