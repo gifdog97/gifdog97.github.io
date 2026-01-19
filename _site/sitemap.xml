@@ -156,6 +156,10 @@
 <loc>http://localhost:4000/markdown_generator/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/pdfs/CV.pdf</loc>
+<lastmod>2026-01-18T22:10:41-08:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/pdfs/SNLP2020.pdf</loc>
 <lastmod>2024-08-29T08:11:33-07:00</lastmod>
 </url>
