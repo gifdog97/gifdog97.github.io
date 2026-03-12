@@ -19,6 +19,8 @@ permalink: /publications
 
 ## Non-refereed (Domestic)
 
+1. 稲垣 賢斗, <u>神藤 駿介</u>, 高道 慎之介. "[大規模言語モデルの音象徴ベンチマーク](https://www.anlp.jp/proceedings/annual_meeting/2026/pdf_dir/TS2-4.pdf)." 言語処理学会第32回年次大会 (NLP2026).
+1. 山岸 聖子, <u>神藤 駿介</u>, 宮尾 祐介. "[専門家評価と相関分析に基づく大規模言語モデルによる法廷通訳の実現可能性の検証](https://www.anlp.jp/proceedings/annual_meeting/2026/pdf_dir/TS3-4.pdf)." 言語処理学会第32回年次大会 (NLP2026).
 1. <u>神藤 駿介</u>, 宮尾 祐介. "[自発音声のモデルとしての音声言語モデル](https://yans.anlp.jp/entry/yans2025program)." NLP若手の会第20回シンポジウム (YANS2025). **スポンサー賞 (株式会社スマートバンク賞)**
 1. 古賀 友里愛, <u>神藤 駿介</u>, 宮尾 祐介. "[日本語における音声弁別ABX評価データセットの構築](https://yans.anlp.jp/entry/yans2025program)." NLP若手の会第20回シンポジウム (YANS2025). **スポンサー賞 (株式会社エクサウィザーズ賞)**
 1. <u>神藤 駿介</u>, 高道 慎之介, 宮尾 祐介. "[どのような音声離散表現が音声の再合成と継続に適するか？](https://acoustics.jp/cms/wp_asj/wp-content/uploads/009_2025autumn_program.pdf)." 日本音響学会第154回(2025年秋季)研究発表会. **学生優秀発表賞**
