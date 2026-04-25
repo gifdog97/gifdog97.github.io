@@ -6,21 +6,17 @@ redirect_from:
   - /about.html
 ---
 
-I am a 1st year PhD student at The University of Tokyo.
+I am a 2nd year PhD student at The University of Tokyo.
 I am working on Computational Linguistics / Natural Language Processing.
 I am a daydreamer loving music and climbing.
 
 ## Research interests
 
-- Spoken Language Processing
-- Language Acquisition
+My research lies at the intersection of speech technology and developmental psychology.
+I am particularly interested in how humans acquire and process natural language, especially in the speech modality.
 
-My research interest lies in how humans acquire/process natural languages.
+From a scientific perspective, I take a constructive approach for understanding human language acquisition and processing—for example, by attempting to reverse-engineer human language acquisition.
+From an engineering perspective, I focus on text-free language modeling and its evaluation.
 
-Currently I pay attention to **speech signals** because they are more primitive sources than texts when acquiring/processing languages.
-I'm aware of the problem that the current trend in NLP is biased towards text-based approach.
-I hope to make contributions that shift this paradigm into "speech-first" one.
-
-My previous work on **mutilingual syntax-aware language modeling** also suites my interest.
-I believe the language universality and variation are key to unravel the mystery of human language processing.
-That's why I'm curious about multilinguality and syntax as well.
+My background is in natural language processing, and I have also worked on a range of topics in text-based NLP.
+Recently I am interested in the relationship between spoken and written language—for example, how the emergence of written language influences the structure and function of language systems as a whole.
