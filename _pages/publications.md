@@ -6,18 +6,22 @@ permalink: /publications
 
 ## Refereed
 
-1. <u>Shunsuke Kando</u>, Yusuke Miyao. "[On the Learnability of Syntax from Raw Speech with Autoregressive Predictive Coding
-](https://openreview.net/forum?id=CPr2fKvy2Q)." CDL 2026 (Workshop at ACL 2026) [To Appear]
+1. <u>Shunsuke Kando</u>, Wataru Nakata, Shinnosuke Takamichi, Yusuke Miyao. "[On the Effect of Segmentation Width and Cluster Size on Speech Resynthesis and Continuation in Generative Spoken Language Models](xxx)." INTERSPEECH 2026 [To Appear]
+1. <u>Shunsuke Kando</u>, Yusuke Miyao. "[On the Learnability of Syntax from Raw Speech with Autoregressive Predictive Coding](https://openreview.net/forum?id=CPr2fKvy2Q)." CDL 2026 (Workshop at ACL 2026) [To Appear]
 1. Joonyong Park, Shinnosuke Takamichi, David M. Chan, <u>Shunsuke Kando</u>, Yuki Saito, Hiroshi Saruwatari. "[Analysing the Language of Neural Audio Codecs](https://ieeexplore.ieee.org/document/11434618)." ASRU 2025.
 1. Yurie Koga, <u>Shunsuke Kando</u>, Yusuke Miyao. "[Do Self-Supervised Speech Models Exhibit the Critical Period Effects in Language Acquisition?](https://ieeexplore.ieee.org/document/11434722)." ASRU 2025.
 1. <u>Shunsuke Kando</u>, Yusuke Miyao, Shinnosuke Takamichi. "[Exploring the Effect of Segmentation and Vocabulary Size on Speech Tokenization for Speech Language Models](https://www.isca-archive.org/interspeech_2025/kando25_interspeech.html)." INTERSPEECH 2025.
 1. Yurie Koga, <u>Shunsuke Kando</u>, Yusuke Miyao. "[Forecasting Implicit Emotions Elicited in Conversations](https://aclanthology.org/2024.inlg-main.12/)." INLG 2024.
 1. <u>Shunsuke Kando</u>, Yusuke Miyao, Jason Naradowsky, Shinnosuke Takamichi. "[Textless Dependency Parsing by Labeled Sequence Prediction](https://www.isca-archive.org/interspeech_2024/kando24_interspeech.html)." INTERSPEECH 2024.
-1. <u>Shunsuke Kando</u>, Hiroshi Noji, Yusuke Miyao. "[Multilingual Syntax-aware Language Modeling through Dependency Tree Conversion](https://aclanthology.org/2022.spnlp-1.1/)." Sixth Workshop on Structured Prediction for NLP (SPNLP 2022).
+1. <u>Shunsuke Kando</u>, Hiroshi Noji, Yusuke Miyao. "[Multilingual Syntax-aware Language Modeling through Dependency Tree Conversion](https://aclanthology.org/2022.spnlp-1.1/)." 6th Workshop on Structured Prediction for NLP (SPNLP 2022).
 
 ## Preprints
 
-1. Ryo Ueda, Tatuski Kuribayashi, <u>Shunsuke Kando</u>, Kentaro Inui. "[Syntactic Learnability of Echo State Neural Language Models at Scale](https://arxiv.org/abs/2503.01724)." arXiv.
+1. Ryo Ueda, Tatuski Kuribayashi, <u>Shunsuke Kando</u>, Kentaro Inui. "[Syntactic Learnability of Echo State Neural Language Models at Scale](https://arxiv.org/abs/2503.01724)." arXiv, 2025.
+
+## Non-refereed (International)
+
+1. Joonyong Park, Shinnosuke Takamichi, David M Chan, <u>Shunsuke Kando</u>, Yuki Saito, Hiroshi Saruwatari. "[Do statistical patterns in neural audio codec tokens by synthesized speech reveal structure beyond speech quality?](https://pubs.aip.org/asa/jasa/article-abstract/158/4_Supplement/A196/3389507)." 6th Joint Meeting Acoustical Society of America and Acoustical Society of Japan, 2025. [Abstract Only]
 
 ## Non-refereed (Domestic)
 
