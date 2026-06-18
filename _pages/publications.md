@@ -4,10 +4,15 @@ permalink: /publications
 
 [Researchmap page](https://researchmap.jp/skando) (mainly for Japanese researchers)
 
-## Refereed
+## Refereed (Journal)
 
-1. <u>Shunsuke Kando</u>, Wataru Nakata, Shinnosuke Takamichi, Yusuke Miyao. "[On the Effect of Segmentation Width and Cluster Size on Speech Resynthesis and Continuation in Generative Spoken Language Models](xxx)." INTERSPEECH 2026 [To Appear]
-1. <u>Shunsuke Kando</u>, Yusuke Miyao. "[On the Learnability of Syntax from Raw Speech with Autoregressive Predictive Coding](https://openreview.net/forum?id=CPr2fKvy2Q)." CDL 2026 (Workshop at ACL 2026) [To Appear]
+1. Shoko Yamagishi, <u>Shunsuke Kando</u>, Yusuke Miyao. "[Feasibility Study of Large Language Models for Courtroom Interpreting and Check Interpreting](xxx)."  Journal of Natural Language Processing, Vol. 33 No.3, 2026 [Accepted]
+
+## Refereed (Conference Paper)
+
+1. <u>Shunsuke Kando</u>, Wataru Nakata, Shinnosuke Takamichi, Yusuke Miyao. "[On the Effect of Segmentation Width and Cluster Size on Speech Resynthesis and Continuation in Generative Spoken Language Models](xxx)." INTERSPEECH 2026 [Accepted]
+1. Kazumi Kumagai, Ingon Chanpornpakdi, Tamon Miyake, Yushi Wang, Sixia Li, <u>Shunsuke Kando</u>, Shogo Takata, Norihisa Miyake, Takuichi Nishimura, Yusuke Miyao, Shogo Okada, Satoshi Umeda, Toshihisa Tanaka, Osamu Matsumoto, Tetsuya Ogata, Shigeki Sugano, Mihoko Otake. "[A Study of Socially Acceptable Robot Behaviors Based on Multimodal User State Estimations: Results from the First Iterative Trial](xxx)". RO-MAN 2026 [Accepted]
+1. <u>Shunsuke Kando</u>, Yusuke Miyao. "[On the Learnability of Syntax from Raw Speech with Autoregressive Predictive Coding](https://openreview.net/forum?id=CPr2fKvy2Q)." CDL 2026 (Workshop at ACL 2026) [Accepted]
 1. Joonyong Park, Shinnosuke Takamichi, David M. Chan, <u>Shunsuke Kando</u>, Yuki Saito, Hiroshi Saruwatari. "[Analysing the Language of Neural Audio Codecs](https://ieeexplore.ieee.org/document/11434618)." ASRU 2025.
 1. Yurie Koga, <u>Shunsuke Kando</u>, Yusuke Miyao. "[Do Self-Supervised Speech Models Exhibit the Critical Period Effects in Language Acquisition?](https://ieeexplore.ieee.org/document/11434722)." ASRU 2025.
 1. <u>Shunsuke Kando</u>, Yusuke Miyao, Shinnosuke Takamichi. "[Exploring the Effect of Segmentation and Vocabulary Size on Speech Tokenization for Speech Language Models](https://www.isca-archive.org/interspeech_2025/kando25_interspeech.html)." INTERSPEECH 2025.
