@@ -2,7 +2,7 @@
 title:  "生成AIによるコーディングに対する今の自分の立場を整理"
 date:   2026-06-19
 permalink: /blog/2026/06/19/coding_with_generativeAI
-tags: diary
+tags: research
 ---
 
 自分はコーディングにおいて生成AIを上手に使いこなせている自信がない。
