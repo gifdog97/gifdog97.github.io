@@ -1,7 +1,7 @@
 ---
 title:  '太陽の塔を見に行った'
 date:   2024-05-23
-permalink: /blog/2024/05/23/tower_of_the_sun
+permalink: /blog/tower_of_the_sun
 categories:
   - diary
 ---

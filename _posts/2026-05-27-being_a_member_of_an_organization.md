@@ -1,7 +1,7 @@
 ---
 title:  "組織に属することについて"
 date:   2026-05-27
-permalink: /blog/2026/05/27/being_a_member_of_an_organization
+permalink: /blog/being_a_member_of_an_organization
 tags: diary
 ---
 

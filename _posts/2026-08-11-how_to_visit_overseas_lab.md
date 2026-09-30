@@ -1,7 +1,7 @@
 ---
 title:  "研究留学の実現方法（神藤の場合）"
 date:   2026-08-11
-permalink: /blog/2026/08/11/how_to_visit_overseas_lab
+permalink: /blog/how_to_visit_overseas_lab
 tags: research
 ---
 

@@ -1,4 +1,77 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2026-08-21T00:57:35-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Home</title><subtitle>personal description</subtitle><author><name>Shunsuke Kando</name></author><entry><title type="html">研究留学の実現方法（神藤の場合）</title><link href="http://localhost:4000/blog/2026/08/11/how_to_visit_overseas_lab" rel="alternate" type="text/html" title="研究留学の実現方法（神藤の場合）" /><published>2026-08-11T00:00:00-07:00</published><updated>2026-08-11T00:00:00-07:00</updated><id>http://localhost:4000/blog/2026/08/11/how_to_visit_overseas_lab</id><content type="html" xml:base="http://localhost:4000/blog/2026/08/11/how_to_visit_overseas_lab">&lt;p&gt;2026年5月から7月まで、パリの高等師範学校 (ENS) にある Cognitive Machine Learning (CoML) というチームに訪問学生として滞在し研究を行なった。
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2026-09-06T17:08:11-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Home</title><subtitle>personal description</subtitle><author><name>Shunsuke Kando</name></author><entry><title type="html">パリ滞在の感想と考え事</title><link href="http://localhost:4000/blog/thoughts_visiting_paris" rel="alternate" type="text/html" title="パリ滞在の感想と考え事" /><published>2026-09-05T00:00:00-07:00</published><updated>2026-09-05T00:00:00-07:00</updated><id>http://localhost:4000/blog/thoughts_visiting_paris</id><content type="html" xml:base="http://localhost:4000/blog/thoughts_visiting_paris">&lt;p&gt;2026年5月から7月まで、パリの高等師範学校 (ENS) にある Cognitive Machine Learning (CoML) というチームに訪問学生として滞在し研究を行なった。
+&lt;a href=&quot;how_to_visit_overseas_lab&quot;&gt;以前のこの記事&lt;/a&gt;では研究滞在の実現方法について書いた。
+この記事では、研究滞在を経ての雑多な感想や考え事について記す。&lt;/p&gt;
+
+&lt;h2 id=&quot;フランスについて&quot;&gt;フランスについて&lt;/h2&gt;
+
+&lt;h3 id=&quot;パリの街並みについて&quot;&gt;パリの街並みについて&lt;/h3&gt;
+
+&lt;p&gt;シャルル・ド・ゴール空港に着くと早速眼前に空間を縦横無尽に走る謎のエスカレーターの空間が立ち現れ、「これが芸術の街か〜」と思った。
+しかし実際にはそれほど美しい街というわけでもない。
+確かに上を見れば美しい街並みが広がるが、下を見ればゴミは落ちているし道路も歪んでたりする。
+エスカレーターをはじめとする電気機器類はよく壊れており、特に駅の改札機はいつまで経っても直らず、そもそも動いているのを見たことがないものもよく見かけた。
+洗練されたイメージはあるが、実情は意外と散らかった街であった。
+とはいえパリは人口密度が高く、電車は日本並みに混雑することもある。
+このような都市でインフラを完璧に整えるのはそもそも難しく、むしろ日本が異常なのでは？という気持ちになった。
+日本に戻ったとき、どこもかしこもものすごく整頓されていることに気づいてとても驚いた。
+フランスはものが汚かったり壊れたりしてはいるものの、それで困った経験はほとんどなかったし、このぐらいのおおらかさを持ってみんな過ごしていく方が楽なんじゃない？とも思った。
+それでもやはり日本人なので、日本の well-organized な空間の方が居心地良く感じてしまう。
+インフラを管理してくれる皆さんへの感謝の念が絶えない。&lt;/p&gt;
+
+&lt;p&gt;いきなり何の話してるんだ？パリの話に戻ろう。
+基本的にどこを見ても石造の背の低い建物が広がっていて、セーヌ川とのコントラストがとても美しい。
+滞在中はルーブルをはじめいろいろな美術館を巡り、エッフェル塔や凱旋門などのベタな観光地も一通り回った。
+さすがにどこも素晴らしい場所だった。
+凱旋門は最後の最後にギリギリで行ったが、パリ独特の円形の街並みを俯瞰することができてエモである。
+また、そこら中にめちゃ広い公園があって緑が維持されているのも気に入った。
+公園の中で本を読んだり勉強したりしている人もたくさん見かけたし、東京ではなかなか見かけない良い雰囲気だと思う。&lt;/p&gt;
+
+&lt;h3 id=&quot;料理について&quot;&gt;料理について&lt;/h3&gt;
+
+&lt;p&gt;料理は色々と楽しんだ。
+牛肉のワイン煮や、マルセイユで食べたブイヤベース、ストラスブールで食べたシュークルートが特に印象に残っている。
+本当はワインをいろいろ楽しむべきであったが、金銭的にもアルコール許容量的にも余裕が無かったのが残念。
+それにしても円安と物価高は凄まじく、そのへんのお店でも夕食+ドリンクで5000円ぐらいは吹っ飛ぶ。
+そのため、日常的には近所のブラッスリー（パン屋）で買ったバゲットにスーパーで買ったパテ、トマト、チーズなどを組み合わせて食べることが多かった。
+バゲットは1ユーロで買えるので便利。
+日本で言う米のような感覚である。
+ブラッスリーはパティスリー（スイーツ店）が一緒になっていることが多く、このスイーツがまたハイレベルであった。
+特にエクレアは日本のスーパーで売っているものとは種類が明らかに違い、クリームがみちみち詰まっていてかなり好きだった。
+マカロンもそこら中で売っていて大喜びであった。&lt;/p&gt;
+
+&lt;p&gt;ファストフード的な立ち位置の食事としてケバブがそこら中にあった。
+10ユーロくらいでお腹いっぱいになるので重宝した（でも日本のケバブの方が味は好き）。
+ファストフード系だとレバノン料理がかなり美味しかったのだが、日本で同じようなものを食べられるお店がなかなか見当たらず残念である。&lt;/p&gt;
+
+&lt;p&gt;まあでも結局総合的には日本の環境と食べ物の方が好きである（スマン！）。&lt;/p&gt;
+
+&lt;h3 id=&quot;家日本館について&quot;&gt;家（日本館）について&lt;/h3&gt;
+
+&lt;h3 id=&quot;熱波について&quot;&gt;熱波について&lt;/h3&gt;
+
+&lt;p&gt;最悪である。
+この世の最悪なものを全て寄せ集めると熱波になる。
+もちろんこれはパリに限った話ではなく、ヨーロッパ全土を襲う大惨事である。&lt;/p&gt;
+
+&lt;h2 id=&quot;研究室のスタイルについて&quot;&gt;研究室のスタイルについて&lt;/h2&gt;
+
+&lt;h2 id=&quot;反省点&quot;&gt;反省点&lt;/h2&gt;
+
+&lt;h3 id=&quot;英語&quot;&gt;英語！&lt;/h3&gt;
+
+&lt;h3 id=&quot;もっと気軽に議論すれば良かった&quot;&gt;もっと気軽に議論すれば良かった&lt;/h3&gt;
+
+&lt;h3 id=&quot;扇風機を買えば良かった&quot;&gt;扇風機を買えば良かった&lt;/h3&gt;
+
+&lt;p&gt;&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;。&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;ちなみにあとで分かったことだが、実際には国内の知り合いのコネをもう少し利用することができそうだった。 &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>Shunsuke Kando</name></author><category term="research" /><category term="diary" /><summary type="html">2026年5月から7月まで、パリの高等師範学校 (ENS) にある Cognitive Machine Learning (CoML) というチームに訪問学生として滞在し研究を行なった。 以前のこの記事では研究滞在の実現方法について書いた。 この記事では、研究滞在を経ての雑多な感想や考え事について記す。</summary></entry><entry><title type="html">研究留学の実現方法（神藤の場合）</title><link href="http://localhost:4000/blog/how_to_visit_overseas_lab" rel="alternate" type="text/html" title="研究留学の実現方法（神藤の場合）" /><published>2026-08-11T00:00:00-07:00</published><updated>2026-08-11T00:00:00-07:00</updated><id>http://localhost:4000/blog/how_to_visit_overseas_lab</id><content type="html" xml:base="http://localhost:4000/blog/how_to_visit_overseas_lab">&lt;p&gt;2026年5月から7月まで、パリの高等師範学校 (ENS) にある Cognitive Machine Learning (CoML) というチームに訪問学生として滞在し研究を行なった。
 端的に言えば研究留学である。
 CoML を率いる Emmanuel Dupoux は人工知能と発達心理学を扱う著名な先生であり、これほど自身の研究テーマと親和性の高い研究室は世界中を見ても他に無い。
 3ヶ月という短い期間ではあったものの、そのような環境での滞在を実現できたことは自分にとって大きな出来事であり、実際にとても有意義な時間を過ごすことができた。
@@ -120,7 +193,7 @@ CoML は自分の所属研究室と比べて音声処理や発達心理学への
       &lt;p&gt;1000ユーロでキッチン・トイレ・シャワーは共用なので、正直パリの物価はかなりキツいなという気持ちになった。正規居住の学生であれば最安で530ユーロとかなり安いので、長期滞在するなら是非とも利用すべきである。 &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Shunsuke Kando</name></author><category term="research" /><summary type="html">2026年5月から7月まで、パリの高等師範学校 (ENS) にある Cognitive Machine Learning (CoML) というチームに訪問学生として滞在し研究を行なった。 端的に言えば研究留学である。 CoML を率いる Emmanuel Dupoux は人工知能と発達心理学を扱う著名な先生であり、これほど自身の研究テーマと親和性の高い研究室は世界中を見ても他に無い。 3ヶ月という短い期間ではあったものの、そのような環境での滞在を実現できたことは自分にとって大きな出来事であり、実際にとても有意義な時間を過ごすことができた。 ただ、自分も指導教員も Emmanuel と繋がりがなかったため、滞在のきっかけは自力で作る必要があった1。 また、滞在費用や期間、住居などをどうするかについてもいろいろと考える必要があった。 そこで、この記事では自分がどのようにしてこの滞在を実現したかについて書こうと思う。 自分はやらなかったけどこういう手もあるらしい、といった tips も合わせてお伝えできたらと思う。 海外の研究室への訪問に興味はあるけど、どのように実現すれば良いか分からないという人にとって参考になれば幸いである。 ちなみにあとで分かったことだが、実際には国内の知り合いのコネをもう少し利用することができそうだった。 &amp;#8617;</summary></entry><entry><title type="html">生成AIによるコーディングに対する今の自分の立場を整理</title><link href="http://localhost:4000/blog/2026/06/19/coding_with_generativeAI" rel="alternate" type="text/html" title="生成AIによるコーディングに対する今の自分の立場を整理" /><published>2026-06-19T00:00:00-07:00</published><updated>2026-06-19T00:00:00-07:00</updated><id>http://localhost:4000/blog/2026/06/19/coding_with_generativeAI</id><content type="html" xml:base="http://localhost:4000/blog/2026/06/19/coding_with_generativeAI">&lt;p&gt;自分はコーディングにおいて生成AIを上手に使いこなせている自信がない。
+&lt;/div&gt;</content><author><name>Shunsuke Kando</name></author><category term="research" /><summary type="html">2026年5月から7月まで、パリの高等師範学校 (ENS) にある Cognitive Machine Learning (CoML) というチームに訪問学生として滞在し研究を行なった。 端的に言えば研究留学である。 CoML を率いる Emmanuel Dupoux は人工知能と発達心理学を扱う著名な先生であり、これほど自身の研究テーマと親和性の高い研究室は世界中を見ても他に無い。 3ヶ月という短い期間ではあったものの、そのような環境での滞在を実現できたことは自分にとって大きな出来事であり、実際にとても有意義な時間を過ごすことができた。 ただ、自分も指導教員も Emmanuel と繋がりがなかったため、滞在のきっかけは自力で作る必要があった1。 また、滞在費用や期間、住居などをどうするかについてもいろいろと考える必要があった。 そこで、この記事では自分がどのようにしてこの滞在を実現したかについて書こうと思う。 自分はやらなかったけどこういう手もあるらしい、といった tips も合わせてお伝えできたらと思う。 海外の研究室への訪問に興味はあるけど、どのように実現すれば良いか分からないという人にとって参考になれば幸いである。 ちなみにあとで分かったことだが、実際には国内の知り合いのコネをもう少し利用することができそうだった。 &amp;#8617;</summary></entry><entry><title type="html">生成AIによるコーディングに対する今の自分の立場を整理</title><link href="http://localhost:4000/blog/coding_with_generativeAI" rel="alternate" type="text/html" title="生成AIによるコーディングに対する今の自分の立場を整理" /><published>2026-06-19T00:00:00-07:00</published><updated>2026-06-19T00:00:00-07:00</updated><id>http://localhost:4000/blog/coding_with_generativeAI</id><content type="html" xml:base="http://localhost:4000/blog/coding_with_generativeAI">&lt;p&gt;自分はコーディングにおいて生成AIを上手に使いこなせている自信がない。
 最近はコーディングエージェントが相当強力になっているはずで、うまく使えば現実的な金銭的コストで研究を加速させることができるように思う。
 一方でひたすら生成AIに頼ることに対する葛藤もまだ残っている。
 そこで、生成AIに頼るべき場面とそうでない場面を区別する指針を自分の中で明確にすることを念頭に、生成AIに頼りたくない理由について今思いつくことを書き留めておく。&lt;/p&gt;
@@ -155,7 +228,7 @@ CoML は自分の所属研究室と比べて音声処理や発達心理学への
 &lt;p&gt;ということで、現時点の自分が最も納得できる生成AIとの関わり方は、く経験のない実装は出来る限り自分でも書いて最低限レビューできる能力を身につける(1)、そしてその結果として自力で高速にできる部分も増やしていく(2)、とまとめられる。
 今のコーディングエージェントの能力を正確に理解できている人々からすれば馬鹿らしい戦略なのかもしれない。
 だが、残念ながら今の自分にはコーディングエージェントの能力を正確に理解し評価するだけの力量が無いと思う。
-この戦略が結果的に健全な自己改善に繋がることを信じている。&lt;/p&gt;</content><author><name>Shunsuke Kando</name></author><category term="research" /><summary type="html">自分はコーディングにおいて生成AIを上手に使いこなせている自信がない。 最近はコーディングエージェントが相当強力になっているはずで、うまく使えば現実的な金銭的コストで研究を加速させることができるように思う。 一方でひたすら生成AIに頼ることに対する葛藤もまだ残っている。 そこで、生成AIに頼るべき場面とそうでない場面を区別する指針を自分の中で明確にすることを念頭に、生成AIに頼りたくない理由について今思いつくことを書き留めておく。</summary></entry><entry><title type="html">組織に属することについて</title><link href="http://localhost:4000/blog/2026/05/27/being_a_member_of_an_organization" rel="alternate" type="text/html" title="組織に属することについて" /><published>2026-05-27T00:00:00-07:00</published><updated>2026-05-27T00:00:00-07:00</updated><id>http://localhost:4000/blog/2026/05/27/being_a_member_of_an_organization</id><content type="html" xml:base="http://localhost:4000/blog/2026/05/27/being_a_member_of_an_organization">&lt;p&gt;研究のためフランスに滞在してからちょうど1ヶ月経つ。
+この戦略が結果的に健全な自己改善に繋がることを信じている。&lt;/p&gt;</content><author><name>Shunsuke Kando</name></author><category term="research" /><summary type="html">自分はコーディングにおいて生成AIを上手に使いこなせている自信がない。 最近はコーディングエージェントが相当強力になっているはずで、うまく使えば現実的な金銭的コストで研究を加速させることができるように思う。 一方でひたすら生成AIに頼ることに対する葛藤もまだ残っている。 そこで、生成AIに頼るべき場面とそうでない場面を区別する指針を自分の中で明確にすることを念頭に、生成AIに頼りたくない理由について今思いつくことを書き留めておく。</summary></entry><entry><title type="html">組織に属することについて</title><link href="http://localhost:4000/blog/being_a_member_of_an_organization" rel="alternate" type="text/html" title="組織に属することについて" /><published>2026-05-27T00:00:00-07:00</published><updated>2026-05-27T00:00:00-07:00</updated><id>http://localhost:4000/blog/being_a_member_of_an_organization</id><content type="html" xml:base="http://localhost:4000/blog/being_a_member_of_an_organization">&lt;p&gt;研究のためフランスに滞在してからちょうど1ヶ月経つ。
 海外で暮らしたことがない自分にとって3ヶ月という期間はとても長く思っていたが、実際に過ごしてみると本当に一瞬で時間が過ぎ去っていく。
 「暮らした」という実感を得るには最低でも半年は必要であるように感じる。
 それだけ充実した時間を過ごせているということだと思う。
@@ -188,7 +261,7 @@ CoML は自分の所属研究室と比べて音声処理や発達心理学への
       &lt;p&gt;この気づきへの反動として、一度全てから逃げ出して田舎で1-2年くらい隠居したい気持ちにさえなっているのだが、多分もうちょっと冷静になった方が良い。 &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Shunsuke Kando</name></author><category term="diary" /><summary type="html">研究のためフランスに滞在してからちょうど1ヶ月経つ。 海外で暮らしたことがない自分にとって3ヶ月という期間はとても長く思っていたが、実際に過ごしてみると本当に一瞬で時間が過ぎ去っていく。 「暮らした」という実感を得るには最低でも半年は必要であるように感じる。 それだけ充実した時間を過ごせているということだと思う。 フランス滞在における出来事や成果、考え事についてはまた機会を改めて書きたいと思っている。</summary></entry><entry><title type="html">EMNLP2025と中国蘇州の印象</title><link href="http://localhost:4000/blog/2025/11/25/emnlp2025_suzhou" rel="alternate" type="text/html" title="EMNLP2025と中国蘇州の印象" /><published>2025-11-25T00:00:00-08:00</published><updated>2025-11-25T00:00:00-08:00</updated><id>http://localhost:4000/blog/2025/11/25/emnlp2025_suzhou</id><content type="html" xml:base="http://localhost:4000/blog/2025/11/25/emnlp2025_suzhou">&lt;p&gt;先日、中国の蘇州で開催された EMNLP2025 を聴講しに行った。
+&lt;/div&gt;</content><author><name>Shunsuke Kando</name></author><category term="diary" /><summary type="html">研究のためフランスに滞在してからちょうど1ヶ月経つ。 海外で暮らしたことがない自分にとって3ヶ月という期間はとても長く思っていたが、実際に過ごしてみると本当に一瞬で時間が過ぎ去っていく。 「暮らした」という実感を得るには最低でも半年は必要であるように感じる。 それだけ充実した時間を過ごせているということだと思う。 フランス滞在における出来事や成果、考え事についてはまた機会を改めて書きたいと思っている。</summary></entry><entry><title type="html">EMNLP2025と中国蘇州の印象</title><link href="http://localhost:4000/blog/emnlp2025_suzhou" rel="alternate" type="text/html" title="EMNLP2025と中国蘇州の印象" /><published>2025-11-25T00:00:00-08:00</published><updated>2025-11-25T00:00:00-08:00</updated><id>http://localhost:4000/blog/emnlp2025_suzhou</id><content type="html" xml:base="http://localhost:4000/blog/emnlp2025_suzhou">&lt;p&gt;先日、中国の蘇州で開催された EMNLP2025 を聴講しに行った。
 EMNLP には音声系の研究がそれなりに見受けられること、近くて物価も安いので手軽なこと、興味のあるワークショップ（BabyLM Workshop）が開催されること、が参加を決めた理由である。
 また、研究室の中国人留学生が観光案内をしてくれるということもあり（ありがとう！）、とても楽しみであった。&lt;/p&gt;
 
@@ -226,7 +299,7 @@ EMNLP には音声系の研究がそれなりに見受けられること、近�
 外食には事欠かず（中国では朝から外食するのが一般的らしい）、日本のおよそ半分ぐらいの額で美味しいものをたくさん食べることができた。
 千と千尋に出てきそうな肉塊と、お土産に買った金木犀のお酒がお気に入りである。
 雲南のきのこ料理も美味しかった。
-それもこれも同伴してくれた中国人留学生達のおかげである。ありがとう。&lt;/p&gt;</content><author><name>Shunsuke Kando</name></author><category term="diary" /><category term="conference" /><summary type="html">先日、中国の蘇州で開催された EMNLP2025 を聴講しに行った。 EMNLP には音声系の研究がそれなりに見受けられること、近くて物価も安いので手軽なこと、興味のあるワークショップ（BabyLM Workshop）が開催されること、が参加を決めた理由である。 また、研究室の中国人留学生が観光案内をしてくれるということもあり（ありがとう！）、とても楽しみであった。</summary></entry><entry><title type="html">Xのアカウントを消した</title><link href="http://localhost:4000/blog/2025/07/25/delete_X" rel="alternate" type="text/html" title="Xのアカウントを消した" /><published>2025-07-25T00:00:00-07:00</published><updated>2025-07-25T00:00:00-07:00</updated><id>http://localhost:4000/blog/2025/07/25/delete_X</id><content type="html" xml:base="http://localhost:4000/blog/2025/07/25/delete_X">&lt;p&gt;本日、勢いでXのアカウントを削除した。
+それもこれも同伴してくれた中国人留学生達のおかげである。ありがとう。&lt;/p&gt;</content><author><name>Shunsuke Kando</name></author><category term="diary" /><category term="conference" /><summary type="html">先日、中国の蘇州で開催された EMNLP2025 を聴講しに行った。 EMNLP には音声系の研究がそれなりに見受けられること、近くて物価も安いので手軽なこと、興味のあるワークショップ（BabyLM Workshop）が開催されること、が参加を決めた理由である。 また、研究室の中国人留学生が観光案内をしてくれるということもあり（ありがとう！）、とても楽しみであった。</summary></entry><entry><title type="html">Xのアカウントを消した</title><link href="http://localhost:4000/blog/delete_X" rel="alternate" type="text/html" title="Xのアカウントを消した" /><published>2025-07-25T00:00:00-07:00</published><updated>2025-07-25T00:00:00-07:00</updated><id>http://localhost:4000/blog/delete_X</id><content type="html" xml:base="http://localhost:4000/blog/delete_X">&lt;p&gt;本日、勢いでXのアカウントを削除した。
 忘れないうちにホームページからもXの情報を消し、そのついでにしばらく書いてなかったし短いブログでも書き残しておくか、と思った。&lt;/p&gt;
 
 &lt;p&gt;旧Twitterを始めたのは確か高校に入ってすぐである。
@@ -240,7 +313,7 @@ Xでカジュアルに流れてくる情報は一見他では得られないよ�
 研究者として必要なことは虚心坦懐に自身の研究トピックに取り組むことであり、Xの存在はその目標に向けてはほとんど意味を持たない。
 研究以外の余白や無駄という観点で見ても有害であることは明らかである。&lt;/p&gt;
 
-&lt;p&gt;最近なんだか研究も日常生活も楽しいので、この調子で健やかに過ごしてきたい。&lt;/p&gt;</content><author><name>Shunsuke Kando</name></author><category term="diary" /><summary type="html">本日、勢いでXのアカウントを削除した。 忘れないうちにホームページからもXの情報を消し、そのついでにしばらく書いてなかったし短いブログでも書き残しておくか、と思った。</summary></entry><entry><title type="html">米研ぎ</title><link href="http://localhost:4000/blog/2025/04/01/cleaning_rice" rel="alternate" type="text/html" title="米研ぎ" /><published>2025-04-01T00:00:00-07:00</published><updated>2025-04-01T00:00:00-07:00</updated><id>http://localhost:4000/blog/2025/04/01/cleaning_rice</id><content type="html" xml:base="http://localhost:4000/blog/2025/04/01/cleaning_rice">&lt;p&gt;お米を研ぐときのことを考えてみよう。
+&lt;p&gt;最近なんだか研究も日常生活も楽しいので、この調子で健やかに過ごしてきたい。&lt;/p&gt;</content><author><name>Shunsuke Kando</name></author><category term="diary" /><summary type="html">本日、勢いでXのアカウントを削除した。 忘れないうちにホームページからもXの情報を消し、そのついでにしばらく書いてなかったし短いブログでも書き残しておくか、と思った。</summary></entry><entry><title type="html">米研ぎ</title><link href="http://localhost:4000/blog/cleaning_rice" rel="alternate" type="text/html" title="米研ぎ" /><published>2025-04-01T00:00:00-07:00</published><updated>2025-04-01T00:00:00-07:00</updated><id>http://localhost:4000/blog/cleaning_rice</id><content type="html" xml:base="http://localhost:4000/blog/cleaning_rice">&lt;p&gt;お米を研ぐときのことを考えてみよう。
 まず第一に、米を水で満たしてすぐに捨てる。
 乾いた米には水がすぐに染み込んでしまうため綺麗な水を使うこと、
 米についた糠の匂いが米に吸収されてしまうことを防ぐためすぐに捨てること。
@@ -279,7 +352,7 @@ Xでカジュアルに流れてくる情報は一見他では得られないよ�
 まさにコストをかけて楽をするわけだ。&lt;/p&gt;
 
 &lt;p&gt;とはいえこういう思考実験はそれそのものとして面白いものだ。
-くだらないことでも自由に考える時間は大切だと思ったので、これをもって博士課程入学初日の記録とさせていただく。&lt;/p&gt;</content><author><name>Shunsuke Kando</name></author><category term="diary" /><summary type="html">お米を研ぐときのことを考えてみよう。 まず第一に、米を水で満たしてすぐに捨てる。 乾いた米には水がすぐに染み込んでしまうため綺麗な水を使うこと、 米についた糠の匂いが米に吸収されてしまうことを防ぐためすぐに捨てること。 この2点が肝要である。 以降の手順でも共通のことではあるが、ここで全ての水を捨てることはできない。 さすれば全ての米が流しに捨てられてしまうためである。 そのため、以下の手順は微妙に水が残った状態で行う。 力を入れ過ぎずにシャカシャカと混ぜるような仕草で米を研ぐ。 ここで力を入れ過ぎると米が割れてしまうので注意する。 ある程度できたら水を加え、濁り度合いを見る。 初回は糠が大量に出るから当然真っ白である。 水を捨てて、研ぐ手順をもう一度。 半透明になるぐらいまで作業を繰り返す。 完全に透明になるまで研いではいけない。 米の栄養や美味しさまで落ちてしまうためである。</summary></entry><entry><title type="html">雑なスケッチで論文執筆の初動を起こそう</title><link href="http://localhost:4000/blog/2025/02/10/sketch_paper_writing" rel="alternate" type="text/html" title="雑なスケッチで論文執筆の初動を起こそう" /><published>2025-02-10T00:00:00-08:00</published><updated>2025-02-10T00:00:00-08:00</updated><id>http://localhost:4000/blog/2025/02/10/sketch_paper_writing</id><content type="html" xml:base="http://localhost:4000/blog/2025/02/10/sketch_paper_writing">&lt;p&gt;たまには研究の話でも書いてみる。今回は論文執筆について。&lt;/p&gt;
+くだらないことでも自由に考える時間は大切だと思ったので、これをもって博士課程入学初日の記録とさせていただく。&lt;/p&gt;</content><author><name>Shunsuke Kando</name></author><category term="diary" /><summary type="html">お米を研ぐときのことを考えてみよう。 まず第一に、米を水で満たしてすぐに捨てる。 乾いた米には水がすぐに染み込んでしまうため綺麗な水を使うこと、 米についた糠の匂いが米に吸収されてしまうことを防ぐためすぐに捨てること。 この2点が肝要である。 以降の手順でも共通のことではあるが、ここで全ての水を捨てることはできない。 さすれば全ての米が流しに捨てられてしまうためである。 そのため、以下の手順は微妙に水が残った状態で行う。 力を入れ過ぎずにシャカシャカと混ぜるような仕草で米を研ぐ。 ここで力を入れ過ぎると米が割れてしまうので注意する。 ある程度できたら水を加え、濁り度合いを見る。 初回は糠が大量に出るから当然真っ白である。 水を捨てて、研ぐ手順をもう一度。 半透明になるぐらいまで作業を繰り返す。 完全に透明になるまで研いではいけない。 米の栄養や美味しさまで落ちてしまうためである。</summary></entry><entry><title type="html">雑なスケッチで論文執筆の初動を起こそう</title><link href="http://localhost:4000/blog/sketch_paper_writing" rel="alternate" type="text/html" title="雑なスケッチで論文執筆の初動を起こそう" /><published>2025-02-10T00:00:00-08:00</published><updated>2025-02-10T00:00:00-08:00</updated><id>http://localhost:4000/blog/sketch_paper_writing</id><content type="html" xml:base="http://localhost:4000/blog/sketch_paper_writing">&lt;p&gt;たまには研究の話でも書いてみる。今回は論文執筆について。&lt;/p&gt;
 
 &lt;p&gt;自分はまだまだ経験が浅く確たることは言えないが、論文を執筆する際の一番の障壁は「初動」にあるのではないかと思う。
 締切が近づいているけどなかなか書き始められない。
@@ -350,7 +423,7 @@ Xでカジュアルに流れてくる情報は一見他では得られないよ�
 重要なのはいかに初動を起こすか、である。&lt;/p&gt;
 
 &lt;p&gt;今回紹介した方法が万人に適用可能かどうかはよく分からないが、私のようにとりあえずお絵描きしてみるのが好きという人には結構効くのではないかと思う。
-どうしても論文を書き始められないというときにお試しあれ。&lt;/p&gt;</content><author><name>Shunsuke Kando</name></author><category term="research" /><summary type="html">たまには研究の話でも書いてみる。今回は論文執筆について。</summary></entry><entry><title type="html">甘いジュースともったいない精神</title><link href="http://localhost:4000/blog/2025/02/02/juice_mottainai" rel="alternate" type="text/html" title="甘いジュースともったいない精神" /><published>2025-02-02T00:00:00-08:00</published><updated>2025-02-02T00:00:00-08:00</updated><id>http://localhost:4000/blog/2025/02/02/juice_mottainai</id><content type="html" xml:base="http://localhost:4000/blog/2025/02/02/juice_mottainai">&lt;p&gt;この世には「甘いジュース」と呼ばれるものが存在する。
+どうしても論文を書き始められないというときにお試しあれ。&lt;/p&gt;</content><author><name>Shunsuke Kando</name></author><category term="research" /><summary type="html">たまには研究の話でも書いてみる。今回は論文執筆について。</summary></entry><entry><title type="html">甘いジュースともったいない精神</title><link href="http://localhost:4000/blog/juice_mottainai" rel="alternate" type="text/html" title="甘いジュースともったいない精神" /><published>2025-02-02T00:00:00-08:00</published><updated>2025-02-02T00:00:00-08:00</updated><id>http://localhost:4000/blog/juice_mottainai</id><content type="html" xml:base="http://localhost:4000/blog/juice_mottainai">&lt;p&gt;この世には「甘いジュース」と呼ばれるものが存在する。
 典型的にはコーラや午後の紅茶、砂糖入り缶コーヒーなどが該当する。
 甘いジュースには当然ながら大量の糖分が含まれており、ジュースであるが故にガブガブ摂取できてしまう。
 私はこれらの飲み物は一瞬で健康を破壊すると思っているため普段は意識的に避けている。
@@ -382,7 +455,7 @@ Xでカジュアルに流れてくる情報は一見他では得られないよ�
 「ここまで頑張ったのだから投稿・出版したい」も危険信号。&lt;/p&gt;
 
 &lt;p&gt;「もったいない精神」は美徳ではあるが、容易に健康を害したり、悪い意味での保守に陥ったりする。
-もっとおおらかにやっていきたい。&lt;/p&gt;</content><author><name>Shunsuke Kando</name></author><category term="diary" /><summary type="html">この世には「甘いジュース」と呼ばれるものが存在する。 典型的にはコーラや午後の紅茶、砂糖入り缶コーヒーなどが該当する。 甘いジュースには当然ながら大量の糖分が含まれており、ジュースであるが故にガブガブ摂取できてしまう。 私はこれらの飲み物は一瞬で健康を破壊すると思っているため普段は意識的に避けている。 したがって家には基本的に一切置いていないし何ならお菓子も置いていない。 まあお菓子は割と買ってきて食べるんだけど、その日のうちに食べ切れる量だけ買う。 大事なのは、常に食べられるような状態を作らないことである。</summary></entry><entry><title type="html">Suchmos - Hit Me, Thunder</title><link href="http://localhost:4000/blog/2025/02/01/suchmos-hit_me_thunder" rel="alternate" type="text/html" title="Suchmos - Hit Me, Thunder" /><published>2025-02-01T00:00:00-08:00</published><updated>2025-02-01T00:00:00-08:00</updated><id>http://localhost:4000/blog/2025/02/01/suchmos-hit_me_thunder</id><content type="html" xml:base="http://localhost:4000/blog/2025/02/01/suchmos-hit_me_thunder">&lt;p&gt;最近 Suchmos の “THE ANYMAL” というアルバムを聴いている。
+もっとおおらかにやっていきたい。&lt;/p&gt;</content><author><name>Shunsuke Kando</name></author><category term="diary" /><summary type="html">この世には「甘いジュース」と呼ばれるものが存在する。 典型的にはコーラや午後の紅茶、砂糖入り缶コーヒーなどが該当する。 甘いジュースには当然ながら大量の糖分が含まれており、ジュースであるが故にガブガブ摂取できてしまう。 私はこれらの飲み物は一瞬で健康を破壊すると思っているため普段は意識的に避けている。 したがって家には基本的に一切置いていないし何ならお菓子も置いていない。 まあお菓子は割と買ってきて食べるんだけど、その日のうちに食べ切れる量だけ買う。 大事なのは、常に食べられるような状態を作らないことである。</summary></entry><entry><title type="html">Suchmos - Hit Me, Thunder</title><link href="http://localhost:4000/blog/suchmos-hit_me_thunder" rel="alternate" type="text/html" title="Suchmos - Hit Me, Thunder" /><published>2025-02-01T00:00:00-08:00</published><updated>2025-02-01T00:00:00-08:00</updated><id>http://localhost:4000/blog/suchmos-hit_me_thunder</id><content type="html" xml:base="http://localhost:4000/blog/suchmos-hit_me_thunder">&lt;p&gt;最近 Suchmos の “THE ANYMAL” というアルバムを聴いている。
 元々ほとんど知らないバンドで、知っている曲と言えば “STAY TUNE” ぐらいであった。
 前に聴いたときは「なんかチャラい感じだな〜」と素通りしていたのだが、この間たまたま再び耳にして「あれ、実は結構良いかも？」と感じ、いくつか曲を聴いてみた。
 Suchmos は3枚のフルアルバムと1枚のミニアルバムを出しているが、1stアルバム “THE BAY” と 2ndアルバム “THE KIDS” は STAY TUNE 寄りの曲が多く、全体的にノリノリで夜の首都高あたりで聴きたい雰囲気である。
@@ -446,30 +519,4 @@ Blow me, storm the people flies on someday&lt;br /&gt;
 複雑な音楽は何かを「語り尽くそうと」し過ぎている。
 だからできるだけ隙間のある音楽にしたのかもしれない。
 歌詞の世界観とサウンドの世界観がまさに雷によって引き裂かれ、全体として止揚しているようである。
-そう感じたから、この曲が好きなのかもしれない。&lt;/p&gt;</content><author><name>Shunsuke Kando</name></author><category term="music" /><summary type="html">最近 Suchmos の “THE ANYMAL” というアルバムを聴いている。 元々ほとんど知らないバンドで、知っている曲と言えば “STAY TUNE” ぐらいであった。 前に聴いたときは「なんかチャラい感じだな〜」と素通りしていたのだが、この間たまたま再び耳にして「あれ、実は結構良いかも？」と感じ、いくつか曲を聴いてみた。 Suchmos は3枚のフルアルバムと1枚のミニアルバムを出しているが、1stアルバム “THE BAY” と 2ndアルバム “THE KIDS” は STAY TUNE 寄りの曲が多く、全体的にノリノリで夜の首都高あたりで聴きたい雰囲気である。 一方、3rdアルバムである “THE ANYMAL” は明らかに異彩を放っている。 どことなくプログレらしいアプローチもあり、音が削ぎ落とされた雰囲気はゆらゆら帝国の「空洞です」をも彷彿とさせる。 聴いているうちになんだかジャケットが Yes の “Close to the Edge” の色違いに見えてみるし、ANYMAL というタイトルも Pink Floyd の “Animals” から取ってきたんか？と変な憶測をしてしまうほどである（どっちも全然違う作品なのだけど）。</summary></entry><entry><title type="html">眠れません</title><link href="http://localhost:4000/blog/2024/10/20/cantsleep" rel="alternate" type="text/html" title="眠れません" /><published>2024-10-20T00:00:00-07:00</published><updated>2024-10-20T00:00:00-07:00</updated><id>http://localhost:4000/blog/2024/10/20/cantsleep</id><content type="html" xml:base="http://localhost:4000/blog/2024/10/20/cantsleep">&lt;p&gt;午前3時である。&lt;/p&gt;
-
-&lt;p&gt;先週の火曜日から胃腸炎に罹り、腹痛と頭痛に苛まれ続けた。
-数年前からちょくちょく発症しているが今回のはちょっとしつこかった。
-昨日まで何かしら生活に支障が出る程度には症状が続いていた。
-きついときは一日中横になっていて、かと思えば深夜は腹痛で眠れなかったりと、生活は完全に崩壊した。
-もう腹痛もほぼ治ったというのに生活の崩壊だけが残っているのである。&lt;/p&gt;
-
-&lt;p&gt;午前3時である。&lt;/p&gt;
-
-&lt;p&gt;病気の間は研究も休まざるを得なかった。
-今はあれもやりたいこれもやりたい状態である。
-その上、体調を崩す直前に謎にエレキギターを始めてしまったので、そっちのモチベーションも高い。
-研究ができなくて無理やりエレキギターを適当に触ったりしていた（が、それで治りが遅かったのかもしれない）。
-ともかく、やりたいこと・やるべきことが溜まりに溜まった状態だ。&lt;/p&gt;
-
-&lt;p&gt;午前3時である。&lt;/p&gt;
-
-&lt;p&gt;眠れない事実に苛まれていたが、落ち着いて状況を俯瞰してみると、
-生活は崩れざるを得ず、やりたいことは溢れており、こんな状態で眠れるはずが無いのである。
-そういう意味では何も気にせずどんと構えていればよかろう。
-幸にして休日なので、どこかで限界がきてどうせ昼まで寝ているのだろう。
-それで何の問題ないではないか。&lt;/p&gt;
-
-&lt;p&gt;…&lt;/p&gt;
-
-&lt;p&gt;まあ、でも、何も考えず普通の時間に寝られるのが一番だね。&lt;/p&gt;</content><author><name>Shunsuke Kando</name></author><category term="diary" /><summary type="html">午前3時である。</summary></entry></feed>
+そう感じたから、この曲が好きなのかもしれない。&lt;/p&gt;</content><author><name>Shunsuke Kando</name></author><category term="music" /><summary type="html">最近 Suchmos の “THE ANYMAL” というアルバムを聴いている。 元々ほとんど知らないバンドで、知っている曲と言えば “STAY TUNE” ぐらいであった。 前に聴いたときは「なんかチャラい感じだな〜」と素通りしていたのだが、この間たまたま再び耳にして「あれ、実は結構良いかも？」と感じ、いくつか曲を聴いてみた。 Suchmos は3枚のフルアルバムと1枚のミニアルバムを出しているが、1stアルバム “THE BAY” と 2ndアルバム “THE KIDS” は STAY TUNE 寄りの曲が多く、全体的にノリノリで夜の首都高あたりで聴きたい雰囲気である。 一方、3rdアルバムである “THE ANYMAL” は明らかに異彩を放っている。 どことなくプログレらしいアプローチもあり、音が削ぎ落とされた雰囲気はゆらゆら帝国の「空洞です」をも彷彿とさせる。 聴いているうちになんだかジャケットが Yes の “Close to the Edge” の色違いに見えてみるし、ANYMAL というタイトルも Pink Floyd の “Animals” から取ってきたんか？と変な憶測をしてしまうほどである（どっちも全然違う作品なのだけど）。</summary></entry></feed>

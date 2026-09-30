@@ -1,7 +1,7 @@
 ---
 title:  "Death - Jealousy"
 date:   2024-03-04
-permalink: /blog/2024/03/04/death-jealousy
+permalink: /blog/death-jealousy
 tags: music
 youtubeId: 7FsGPOlbabk
 ---

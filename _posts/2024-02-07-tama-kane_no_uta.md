@@ -1,7 +1,7 @@
 ---
 title:  "たま - 鐘の歌"
 date:   2024-02-07
-permalink: /blog/2024/02/07/tama-kane_no_uta
+permalink: /blog/tama-kane_no_uta
 tags: music
 tamaId: ocBjJfjeBmY
 ---

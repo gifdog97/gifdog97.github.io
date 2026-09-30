@@ -1,7 +1,7 @@
 ---
 title:  "米研ぎ"
 date:   2025-04-01
-permalink: /blog/2025/04/01/cleaning_rice
+permalink: /blog/cleaning_rice
 tags: diary
 ---
 

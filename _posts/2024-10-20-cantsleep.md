@@ -1,7 +1,7 @@
 ---
 title: '眠れません'
 date: 2024-10-20
-permalink: /blog/2024/10/20/cantsleep
+permalink: /blog/cantsleep
 tags:
   - diary
 ---

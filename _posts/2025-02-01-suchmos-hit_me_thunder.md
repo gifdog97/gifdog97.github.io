@@ -1,7 +1,7 @@
 ---
 title:  "Suchmos - Hit Me, Thunder"
 date:   2025-02-01
-permalink: /blog/2025/02/01/suchmos-hit_me_thunder
+permalink: /blog/suchmos-hit_me_thunder
 tags: music
 videoId: fpgK6NUy6dg
 ---

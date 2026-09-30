@@ -1,7 +1,7 @@
 ---
 title:  "雑なスケッチで論文執筆の初動を起こそう"
 date:   2025-02-10
-permalink: /blog/2025/02/10/sketch_paper_writing
+permalink: /blog/sketch_paper_writing
 tags: research
 ---
 

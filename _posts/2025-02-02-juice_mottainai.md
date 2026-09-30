@@ -1,7 +1,7 @@
 ---
 title:  "甘いジュースともったいない精神"
 date:   2025-02-02
-permalink: /blog/2025/02/02/juice_mottainai
+permalink: /blog/juice_mottainai
 tags: diary
 ---
 
