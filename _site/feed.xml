@@ -1,77 +1,69 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2026-09-06T17:08:11-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Home</title><subtitle>personal description</subtitle><author><name>Shunsuke Kando</name></author><entry><title type="html">パリ滞在の感想と考え事</title><link href="http://localhost:4000/blog/thoughts_visiting_paris" rel="alternate" type="text/html" title="パリ滞在の感想と考え事" /><published>2026-09-05T00:00:00-07:00</published><updated>2026-09-05T00:00:00-07:00</updated><id>http://localhost:4000/blog/thoughts_visiting_paris</id><content type="html" xml:base="http://localhost:4000/blog/thoughts_visiting_paris">&lt;p&gt;2026年5月から7月まで、パリの高等師範学校 (ENS) にある Cognitive Machine Learning (CoML) というチームに訪問学生として滞在し研究を行なった。
-&lt;a href=&quot;how_to_visit_overseas_lab&quot;&gt;以前のこの記事&lt;/a&gt;では研究滞在の実現方法について書いた。
-この記事では、研究滞在を経ての雑多な感想や考え事について記す。&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2026-11-04T19:01:35-08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Home</title><subtitle>personal description</subtitle><author><name>Shunsuke Kando</name></author><entry><title type="html">大沢好幸 - ユンボー</title><link href="http://localhost:4000/blog/yumbo" rel="alternate" type="text/html" title="大沢好幸 - ユンボー" /><published>2026-09-30T00:00:00-07:00</published><updated>2026-09-30T00:00:00-07:00</updated><id>http://localhost:4000/blog/yumbo</id><content type="html" xml:base="http://localhost:4000/blog/yumbo">&lt;p&gt;はるか昔にバラエティ番組で披露されたピンクレディーのUFOの替え歌「ユンボー」である。&lt;/p&gt;
 
-&lt;h2 id=&quot;フランスについて&quot;&gt;フランスについて&lt;/h2&gt;
+&lt;div class=&quot;embed-container&quot;&gt;
+    &lt;iframe class=&quot;youtubeManager&quot; src=&quot;https://www.youtube.com/embed/3Zf1SenbH4Q&quot; width=&quot;560&quot; height=&quot;315&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;true&quot;&gt;
+    &lt;/iframe&gt;
+  &lt;/div&gt;
 
-&lt;h3 id=&quot;パリの街並みについて&quot;&gt;パリの街並みについて&lt;/h3&gt;
+&lt;p&gt;この替え歌の言葉選びとパフォーマンスの秀逸さに突き動かされ、久しぶりに突然曲紹介を書きたくなった。&lt;/p&gt;
 
-&lt;p&gt;シャルル・ド・ゴール空港に着くと早速眼前に空間を縦横無尽に走る謎のエスカレーターの空間が立ち現れ、「これが芸術の街か〜」と思った。
-しかし実際にはそれほど美しい街というわけでもない。
-確かに上を見れば美しい街並みが広がるが、下を見ればゴミは落ちているし道路も歪んでたりする。
-エスカレーターをはじめとする電気機器類はよく壊れており、特に駅の改札機はいつまで経っても直らず、そもそも動いているのを見たことがないものもよく見かけた。
-洗練されたイメージはあるが、実情は意外と散らかった街であった。
-とはいえパリは人口密度が高く、電車は日本並みに混雑することもある。
-このような都市でインフラを完璧に整えるのはそもそも難しく、むしろ日本が異常なのでは？という気持ちになった。
-日本に戻ったとき、どこもかしこもものすごく整頓されていることに気づいてとても驚いた。
-フランスはものが汚かったり壊れたりしてはいるものの、それで困った経験はほとんどなかったし、このぐらいのおおらかさを持ってみんな過ごしていく方が楽なんじゃない？とも思った。
-それでもやはり日本人なので、日本の well-organized な空間の方が居心地良く感じてしまう。
-インフラを管理してくれる皆さんへの感謝の念が絶えない。&lt;/p&gt;
+&lt;p&gt;まずは歌詞を見てみよう。&lt;/p&gt;
 
-&lt;p&gt;いきなり何の話してるんだ？パリの話に戻ろう。
-基本的にどこを見ても石造の背の低い建物が広がっていて、セーヌ川とのコントラストがとても美しい。
-滞在中はルーブルをはじめいろいろな美術館を巡り、エッフェル塔や凱旋門などのベタな観光地も一通り回った。
-さすがにどこも素晴らしい場所だった。
-凱旋門は最後の最後にギリギリで行ったが、パリ独特の円形の街並みを俯瞰することができてエモである。
-また、そこら中にめちゃ広い公園があって緑が維持されているのも気に入った。
-公園の中で本を読んだり勉強したりしている人もたくさん見かけたし、東京ではなかなか見かけない良い雰囲気だと思う。&lt;/p&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;ユンボー
 
-&lt;h3 id=&quot;料理について&quot;&gt;料理について&lt;/h3&gt;
+レバー握って動かすだけで
+崩れ落ちる家屋が見れる
 
-&lt;p&gt;料理は色々と楽しんだ。
-牛肉のワイン煮や、マルセイユで食べたブイヤベース、ストラスブールで食べたシュークルートが特に印象に残っている。
-本当はワインをいろいろ楽しむべきであったが、金銭的にもアルコール許容量的にも余裕が無かったのが残念。
-それにしても円安と物価高は凄まじく、そのへんのお店でも夕食+ドリンクで5000円ぐらいは吹っ飛ぶ。
-そのため、日常的には近所のブラッスリー（パン屋）で買ったバゲットにスーパーで買ったパテ、トマト、チーズなどを組み合わせて食べることが多かった。
-バゲットは1ユーロで買えるので便利。
-日本で言う米のような感覚である。
-ブラッスリーはパティスリー（スイーツ店）が一緒になっていることが多く、このスイーツがまたハイレベルであった。
-特にエクレアは日本のスーパーで売っているものとは種類が明らかに違い、クリームがみちみち詰まっていてかなり好きだった。
-マカロンもそこら中で売っていて大喜びであった。&lt;/p&gt;
+シャベルでやるより早く
+いつでもラジオが聞ける
+解体作業に欠かせぬユンボー
 
-&lt;p&gt;ファストフード的な立ち位置の食事としてケバブがそこら中にあった。
-10ユーロくらいでお腹いっぱいになるので重宝した（でも日本のケバブの方が味は好き）。
-ファストフード系だとレバノン料理がかなり美味しかったのだが、日本で同じようなものを食べられるお店がなかなか見当たらず残念である。&lt;/p&gt;
+信じられない 事件が起きたの
+もしかしたら 壊したのは 隣の家かも
 
-&lt;p&gt;まあでも結局総合的には日本の環境と食べ物の方が好きである（スマン！）。&lt;/p&gt;
+クビでもいいわ 近頃すこし
+練馬の現場に 飽きたところよ　
 
-&lt;h3 id=&quot;家日本館について&quot;&gt;家（日本館）について&lt;/h3&gt;
+ユンボー
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;h3 id=&quot;熱波について&quot;&gt;熱波について&lt;/h3&gt;
+&lt;p&gt;掴みとなる一節目（レバー握って…）ではユンボーの機能を端的かつユーモラスに表現している。
+特に「崩れ落ちる家屋が見れる」という表現は秀逸である。
+ユンボーを動かすことで家屋を崩すのではなく、「崩れ落ちる家屋が見れる」のだ。
+能動的に動かしているというよりは、ユンボーを動かした結果として家屋が崩れ落ちるのが見える。
+仕事としてやっている受動感、あるいはユンボーを動かすことが目的であって家屋は勝手に崩れているだけという感覚を見事に表現している。
+単に元の歌詞「愛し合える話も出来る」との対応を取っているだけではなく、このようなメッセージを伝えている点で秀逸である。&lt;/p&gt;
 
-&lt;p&gt;最悪である。
-この世の最悪なものを全て寄せ集めると熱波になる。
-もちろんこれはパリに限った話ではなく、ヨーロッパ全土を襲う大惨事である。&lt;/p&gt;
+&lt;p&gt;二節目（シャベルでやるより…）の冒頭はまず「シャベルでやるより早い」という明らか過ぎていささかパンチの弱い長所を挙げている。
+これが次に続く「いつでもラジオが聞ける」という独特の着眼点に基づく主張への強烈な前振りになっている。
+もしここで二つとも独特な長所を挙げていれば「いつでもラジオが聞ける」という表現が薄まっていただろう。
+かといって「シャベルでやるより早い」という表現も、ユンボーの効率性をあえて「シャベル」というしょぼい対象を持ち出して表現するあたりが絶妙である。
+「解体作業に欠かせぬユンボー」は、実利的な面に加え「ラジオという娯楽があるおかげで仕事（作業）もなんとかやっていける」ということを端的に表現していると言える。&lt;/p&gt;
 
-&lt;h2 id=&quot;研究室のスタイルについて&quot;&gt;研究室のスタイルについて&lt;/h2&gt;
+&lt;p&gt;三節目（信じられない…）は言うまでもなくこの替え歌のハイライトである。
+一節二節とジャブを打ったところでここに持っていくという流れが非常にうまい。
+四節目（クビでもいいわ…）は元の歌詞との対応関係が最も取れており替え歌としての完成度が高い。
+その中でも「練馬」というワードチョイスは驚嘆に値する。
+ものすごく地味な街であることは明らかであり、誰もがそりゃ飽きるわ！と共感してしまうだろう&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;。
+「飽きたからいいって話じゃないだろ！」という当たり前のツッコミもあるわけだが、「確かに飽きる」という前提が共有されているのといないのとでは味わいが大きく異なる。&lt;/p&gt;
 
-&lt;h2 id=&quot;反省点&quot;&gt;反省点&lt;/h2&gt;
+&lt;p&gt;このように、全体としてとにかく無駄のない洗練された歌詞なのだが、歌詞だけではなく大沢さんのパフォーマンスにも注目したい。
+まずど頭の「ユンボー」のタイミングと発声は並大抵ではない。
+これだけで笑わせるのは相当な才能の持ち主である。
+歌うときの微動だにしない感じ、対してユンボーを操作する動きはそこから予期できないほどキレが良い。
+歌声のぼんやりとした感じは常にどこか狂気を孕んでおり、確かに隣の家を壊しそうな雰囲気を醸し出している。
+何より最後の「ユンボー」のタイミングは冒頭よりも遥かに難しいのだが、完璧な発声である。&lt;/p&gt;
 
-&lt;h3 id=&quot;英語&quot;&gt;英語！&lt;/h3&gt;
-
-&lt;h3 id=&quot;もっと気軽に議論すれば良かった&quot;&gt;もっと気軽に議論すれば良かった&lt;/h3&gt;
-
-&lt;h3 id=&quot;扇風機を買えば良かった&quot;&gt;扇風機を買えば良かった&lt;/h3&gt;
-
-&lt;p&gt;&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;。&lt;/p&gt;
+&lt;p&gt;これほどまで完成度の高いパフォーマンスは珍しい。
+オリジナルであろうと替え歌であろうと良いものは良いということだ。&lt;/p&gt;
 
 &lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
   &lt;ol&gt;
     &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;ちなみにあとで分かったことだが、実際には国内の知り合いのコネをもう少し利用することができそうだった。 &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;練馬区民の皆さん、ごめんなさい。 &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Shunsuke Kando</name></author><category term="research" /><category term="diary" /><summary type="html">2026年5月から7月まで、パリの高等師範学校 (ENS) にある Cognitive Machine Learning (CoML) というチームに訪問学生として滞在し研究を行なった。 以前のこの記事では研究滞在の実現方法について書いた。 この記事では、研究滞在を経ての雑多な感想や考え事について記す。</summary></entry><entry><title type="html">研究留学の実現方法（神藤の場合）</title><link href="http://localhost:4000/blog/how_to_visit_overseas_lab" rel="alternate" type="text/html" title="研究留学の実現方法（神藤の場合）" /><published>2026-08-11T00:00:00-07:00</published><updated>2026-08-11T00:00:00-07:00</updated><id>http://localhost:4000/blog/how_to_visit_overseas_lab</id><content type="html" xml:base="http://localhost:4000/blog/how_to_visit_overseas_lab">&lt;p&gt;2026年5月から7月まで、パリの高等師範学校 (ENS) にある Cognitive Machine Learning (CoML) というチームに訪問学生として滞在し研究を行なった。
+&lt;/div&gt;</content><author><name>Shunsuke Kando</name></author><category term="music" /><summary type="html">はるか昔にバラエティ番組で披露されたピンクレディーのUFOの替え歌「ユンボー」である。</summary></entry><entry><title type="html">研究留学の実現方法（神藤の場合）</title><link href="http://localhost:4000/blog/how_to_visit_overseas_lab" rel="alternate" type="text/html" title="研究留学の実現方法（神藤の場合）" /><published>2026-08-11T00:00:00-07:00</published><updated>2026-08-11T00:00:00-07:00</updated><id>http://localhost:4000/blog/how_to_visit_overseas_lab</id><content type="html" xml:base="http://localhost:4000/blog/how_to_visit_overseas_lab">&lt;p&gt;2026年5月から7月まで、パリの高等師範学校 (ENS) にある Cognitive Machine Learning (CoML) というチームに訪問学生として滞在し研究を行なった。
 端的に言えば研究留学である。
 CoML を率いる Emmanuel Dupoux は人工知能と発達心理学を扱う著名な先生であり、これほど自身の研究テーマと親和性の高い研究室は世界中を見ても他に無い。
 3ヶ月という短い期間ではあったものの、そのような環境での滞在を実現できたことは自分にとって大きな出来事であり、実際にとても有意義な時間を過ごすことができた。
